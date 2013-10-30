@@ -1,4 +1,4 @@
-<properties linkid="" urlDisplayName="Notify Users" pageTitle="Notify cross-platform users of your ASP.NET service with Notification Hubs" title="Notify cross-platform users of your ASP.NET service with Notification Hubs" metaKeywords="" writer="glenga" Description="Follow this tutorial to register to receive notifications from your ASP.NET service by using Notification Hubs" metaCanonical="" disqusComments="1" umbracoNaviHide="1" />
+<properties linkid="" urlDisplayName="Notify Users" pageTitle="Notify cross-platform users of your ASP.NET service with Notification Hubs" title="Notify cross-platform users of your ASP.NET service with Notification Hubs" metaKeywords="" writer="glenga" description="Follow this tutorial to register to receive notifications from your ASP.NET service by using Notification Hubs" metaCanonical="" disqusComments="1" umbracoNaviHide="1" />
 
 
 

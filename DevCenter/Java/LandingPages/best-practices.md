@@ -1,4 +1,4 @@
-<properties linkid="devnav-java-bestpractices" urlDisplayName="Best Practices" pageTitle="Windows Azure Java best practices" title="Windows Azure Java best practices" metaKeywords="Windows Azure best practices, Azure best practices" Description="Find topics about best practices in Windows Azure." metaCanonical="http://www.windowsazure.com/en-us/develop/net/best-practices/" disqusComments="0" umbracoNaviHide="0" />
+<properties linkid="devnav-java-bestpractices" urlDisplayName="Best Practices" pageTitle="Windows Azure Java best practices" title="Windows Azure Java best practices" metaKeywords="Windows Azure best practices, Azure best practices" description="Find topics about best practices in Windows Azure." metaCanonical="http://www.windowsazure.com/en-us/develop/net/best-practices/" disqusComments="0" umbracoNaviHide="0" />
 
 
 # Java Developer Center - Best Practices

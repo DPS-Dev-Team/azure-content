@@ -1,4 +1,4 @@
-﻿<properties linkid="develop-nodejs-tutorials-web-site-with-sql-database" urlDisplayName="Web site with SQL Database" pageTitle="Node.js web site with SQL Database - Windows Azure tutorial" title="Node.js web site with SQL Database - Windows Azure tutorial" metaKeywords="" Description="Learn how to create a Node.js website that accesses a SQL Database and is deployed to Windows Azure" metaCanonical="" disqusComments="1" umbracoNaviHide="1" />
+﻿<properties linkid="develop-nodejs-tutorials-web-site-with-sql-database" urlDisplayName="Web site with SQL Database" pageTitle="Node.js web site with SQL Database - Windows Azure tutorial" title="Node.js web site with SQL Database - Windows Azure tutorial" metaKeywords="" description="Learn how to create a Node.js website that accesses a SQL Database and is deployed to Windows Azure" metaCanonical="" disqusComments="1" umbracoNaviHide="1" />
 
 
 

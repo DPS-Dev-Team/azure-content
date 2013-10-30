@@ -1,4 +1,4 @@
-﻿<properties linkid="migrating-drupal-to-azure-websites" urlDisplayName="Migrating Drupal to Windows Azure Web Sites" pageTitle="Migrating Drupal to Windows Azure Web Sites" title="Migrating Drupal to Windows Azure Web Sites" metaKeywords="Drupal,PHP,Web Sites" Description="Migrate a Drupal PHP site to Windows Azure Web Sites." umbracoNaviHide="0" disqusComments="1" writer="jroth" editor="mollybos" manager="paulettm" /> 
+﻿<properties linkid="migrating-drupal-to-azure-websites" urlDisplayName="Migrating Drupal to Windows Azure Web Sites" pageTitle="Migrating Drupal to Windows Azure Web Sites" title="Migrating Drupal to Windows Azure Web Sites" metaKeywords="Drupal,PHP,Web Sites" description="Migrate a Drupal PHP site to Windows Azure Web Sites." umbracoNaviHide="0" disqusComments="1" writer="jroth" editor="mollybos" manager="paulettm" /> 
 
 
 

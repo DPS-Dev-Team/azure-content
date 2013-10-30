@@ -1,4 +1,4 @@
-<properties linkid="hdinsight-landing" urlDisplayName="HDInsight Service" pageTitle="HDInsight Service" title="HDInsight Service" metaKeywords="SQL databases Windows Auzure, SQL databases Azure, SQL Azure, SQL Server Azure" Description="Find topics about using SQL Databases in Windows Azure." metaCanonical="" disqusComments="0" umbracoNaviHide="0" />
+<properties linkid="hdinsight-landing" urlDisplayName="HDInsight Service" pageTitle="HDInsight Service" title="HDInsight Service" metaKeywords="SQL databases Windows Auzure, SQL databases Azure, SQL Azure, SQL Server Azure" description="Find topics about using SQL Databases in Windows Azure." metaCanonical="" disqusComments="0" umbracoNaviHide="0" />
 
 
 # HDInsight articles

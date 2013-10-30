@@ -1,4 +1,4 @@
-<properties linkid="manage-linux-common-tasks-user-root-privileges" urlDisplayName="Use root privileges" pageTitle="Use root privileges on Linux virtual machines in Windows Azure" title="Use root privileges on Linux virtual machines in Windows Azure" metaKeywords="" Description="Learn how to use root privileges on a Linux virtual machine in Windows Azure." metaCanonical="" disqusComments="1" umbracoNaviHide="1" />
+<properties linkid="manage-linux-common-tasks-user-root-privileges" urlDisplayName="Use root privileges" pageTitle="Use root privileges on Linux virtual machines in Windows Azure" title="Use root privileges on Linux virtual machines in Windows Azure" metaKeywords="" description="Learn how to use root privileges on a Linux virtual machine in Windows Azure." metaCanonical="" disqusComments="1" umbracoNaviHide="1" />
 
 
 #Using root privileges on Linux virtual machines in Windows Azure

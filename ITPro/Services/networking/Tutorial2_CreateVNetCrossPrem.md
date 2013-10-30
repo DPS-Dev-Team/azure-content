@@ -1,4 +1,4 @@
-﻿<properties linkid="manage-services-cross-premises-connectivity" urlDisplayName="Cross-premises Connectivity" pageTitle="Create a cross-premises virtual network - Windows Azure" title="Create a cross-premises virtual network - Windows Azure" metaKeywords="" Description="Learn how to create a Windows Azure Virtual Network with cross-premises connectivity." metaCanonical="" disqusComments="1" umbracoNaviHide="0" />
+﻿<properties linkid="manage-services-cross-premises-connectivity" urlDisplayName="Cross-premises Connectivity" pageTitle="Create a cross-premises virtual network - Windows Azure" title="Create a cross-premises virtual network - Windows Azure" metaKeywords="" description="Learn how to create a Windows Azure Virtual Network with cross-premises connectivity." metaCanonical="" disqusComments="1" umbracoNaviHide="0" />
 
 
 

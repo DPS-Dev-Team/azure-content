@@ -1,4 +1,4 @@
-﻿<properties linkid="manage-services-how-to-configure-a-cloud-service" urlDisplayName="How to configure" pageTitle="How to configure a cloud service - Windows Azure" title="How to configure a cloud service - Windows Azure" metaKeywords="Configuring cloud services" Description="Learn how to configure cloud services in Windows Azure. Learn to update the cloud service configuration and configure remote access to role instances." metaCanonical="" disqusComments="1" umbracoNaviHide="0" writer="davidmu"/>
+﻿<properties linkid="manage-services-how-to-configure-a-cloud-service" urlDisplayName="How to configure" pageTitle="How to configure a cloud service - Windows Azure" title="How to configure a cloud service - Windows Azure" metaKeywords="Configuring cloud services" description="Learn how to configure cloud services in Windows Azure. Learn to update the cloud service configuration and configure remote access to role instances." metaCanonical="" disqusComments="1" umbracoNaviHide="0" writer="davidmu"/>
 
 
 <h1><a id="configurecloudservice"></a>How to Configure Cloud Services</h1>

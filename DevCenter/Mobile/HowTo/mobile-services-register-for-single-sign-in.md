@@ -1,4 +1,4 @@
-<properties linkid="develop-mobile-how-to-guides-register-for-single-sign-on" urlDisplayName="Register for single sign on" pageTitle="Register for single sign-on - Windows Azure Mobile Services" title="Register for single sign-on - Windows Azure Mobile Services" metaKeywords="" Description="Learn how to register for single sign-on authentication in your Windows Azure Mobile Services application." metaCanonical="" disqusComments="1" umbracoNaviHide="1" />
+<properties linkid="develop-mobile-how-to-guides-register-for-single-sign-on" urlDisplayName="Register for single sign on" pageTitle="Register for single sign-on - Windows Azure Mobile Services" title="Register for single sign-on - Windows Azure Mobile Services" metaKeywords="" description="Learn how to register for single sign-on authentication in your Windows Azure Mobile Services application." metaCanonical="" disqusComments="1" umbracoNaviHide="1" />
 
 
 

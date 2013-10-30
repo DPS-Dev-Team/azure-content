@@ -1,4 +1,4 @@
-<properties linkid="develop-mobile-tutorials-authorize-users-in-scripts-android" urlDisplayName="Authorize Users in Scripts (Android)" pageTitle="Authorize users in scripts (Android) - Windows Azure Mobile Services" title="Authorize users in scripts (Android) - Windows Azure Mobile Services" metaKeywords="Windows Azure authorizing user, Android scripts authorization, authorize mobile services" Description="Learn how to authorize users with scripts in your Windows Azure Mobile Services app for Android." metaCanonical="" disqusComments="1" umbracoNaviHide="1" />
+<properties linkid="develop-mobile-tutorials-authorize-users-in-scripts-android" urlDisplayName="Authorize Users in Scripts (Android)" pageTitle="Authorize users in scripts (Android) - Windows Azure Mobile Services" title="Authorize users in scripts (Android) - Windows Azure Mobile Services" metaKeywords="Windows Azure authorizing user, Android scripts authorization, authorize mobile services" description="Learn how to authorize users with scripts in your Windows Azure Mobile Services app for Android." metaCanonical="" disqusComments="1" umbracoNaviHide="1" />
 
 
 

@@ -1,4 +1,4 @@
-﻿<properties linkid="develop-mobile-tutorials-get-started-with-notification-hubs-dotnet" writer="glenga" urlDisplayName="Get Started with Notification Hubs" pageTitle="Get started with Notification Hubs - Mobile Services" title="Get started with Notification Hubs - Mobile Services" metaKeywords="" Description="Learn how to use Notification Hubs with Windows Azure Mobile Services." metaCanonical="" disqusComments="1" umbracoNaviHide="1" />
+﻿<properties linkid="develop-mobile-tutorials-get-started-with-notification-hubs-dotnet" writer="glenga" urlDisplayName="Get Started with Notification Hubs" pageTitle="Get started with Notification Hubs - Mobile Services" title="Get started with Notification Hubs - Mobile Services" metaKeywords="" description="Learn how to use Notification Hubs with Windows Azure Mobile Services." metaCanonical="" disqusComments="1" umbracoNaviHide="1" />
 
 
 # Get started with Notification Hubs in Mobile Services
@@ -115,7 +115,7 @@ First, enable the toast capability in the manifest, which you do in Visual Studi
 2. Find the **VisualElements** node and add the attribute *ToastCapable=”true”* as shown in the following snippet. Save and close the application.
 
 		<VisualElements DisplayName="MyPushApp" Logo="Assets\Logo.png"
-		                SmallLogo="Assets\SmallLogo.png" Description="App1"
+		                SmallLogo="Assets\SmallLogo.png" description="App1"
 		                ForegroundText="light" BackgroundColor="#464646"
 		                ToastCapable="true">
 		    <DefaultTile ShowName="allLogos" />

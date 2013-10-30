@@ -1,4 +1,4 @@
-﻿<properties linkid="manage-services-sql-databases-premium" urlDisplayName="Premium SQL Database" pageTitle="Sign up for Windows Azure Premium for SQL Database" title="Sign up for Windows Azure Premium for SQL Database" metaKeywords="" Description="Describes how to sign up for the Premium for SQL Database preview, request your Premium database quota, and then upgrade a database to Premium in Windows Azure SQL Database." metaCanonical="" disqusComments="1" umbracoNaviHide="0" />
+﻿<properties linkid="manage-services-sql-databases-premium" urlDisplayName="Premium SQL Database" pageTitle="Sign up for Windows Azure Premium for SQL Database" title="Sign up for Windows Azure Premium for SQL Database" metaKeywords="" description="Describes how to sign up for the Premium for SQL Database preview, request your Premium database quota, and then upgrade a database to Premium in Windows Azure SQL Database." metaCanonical="" disqusComments="1" umbracoNaviHide="0" />
 
 
 

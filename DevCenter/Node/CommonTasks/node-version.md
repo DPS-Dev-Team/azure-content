@@ -1,4 +1,4 @@
-<properties linkid="dev-nodejs-nodeversion" urlDisplayName="Node.js Versions" pageTitle="Specifying a Node.js version - Windows Azure" title="Specifying a Node.js version - Windows Azure" metaKeywords="node.js version azure" Description="Learn how to specify the Node.js version used by your application" metaCanonical="http://www.windowsazure.com/en-us/develop/nodejs/common-tasks/node-version" umbracoNaviHide="0" disqusComments="1" writer="larryfr" editor="mollybos" manager="paulettm" /> 
+<properties linkid="dev-nodejs-nodeversion" urlDisplayName="Node.js Versions" pageTitle="Specifying a Node.js version - Windows Azure" title="Specifying a Node.js version - Windows Azure" metaKeywords="node.js version azure" description="Learn how to specify the Node.js version used by your application" metaCanonical="http://www.windowsazure.com/en-us/develop/nodejs/common-tasks/node-version" umbracoNaviHide="0" disqusComments="1" writer="larryfr" editor="mollybos" manager="paulettm" /> 
 
 
 

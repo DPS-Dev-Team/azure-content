@@ -1,4 +1,4 @@
-<properties linkid="dev-net-best-practices" urlDisplayName="Best Practices" pageTitle="Windows Azure .NET best practices" title="Windows Azure .NET best practices" metaKeywords="Azure solutions best practices" Description="Best practices for developing robust Windows Azure solutions." metaCanonical="" disqusComments="1" umbracoNaviHide="0" />
+<properties linkid="dev-net-best-practices" urlDisplayName="Best Practices" pageTitle="Windows Azure .NET best practices" title="Windows Azure .NET best practices" metaKeywords="Azure solutions best practices" description="Best practices for developing robust Windows Azure solutions." metaCanonical="" disqusComments="1" umbracoNaviHide="0" />
 
 
 #.NET Developer Center - Best practices

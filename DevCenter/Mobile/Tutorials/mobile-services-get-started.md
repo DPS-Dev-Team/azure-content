@@ -1,4 +1,4 @@
-<properties linkid="develop-mobile-tutorials-get-started" urlDisplayName="Get Started" pageTitle="Get Started with Windows Azure Mobile Services" title="Get Started with Windows Azure Mobile Services" metaKeywords="" writer="glenga" Description="Follow this tutorial to get started using Windows Azure Mobile Services for Windows Store development in C#, VB, or JavaScript. " metaCanonical="" disqusComments="1" umbracoNaviHide="1" />
+<properties linkid="develop-mobile-tutorials-get-started" urlDisplayName="Get Started" pageTitle="Get Started with Windows Azure Mobile Services" title="Get Started with Windows Azure Mobile Services" metaKeywords="" writer="glenga" description="Follow this tutorial to get started using Windows Azure Mobile Services for Windows Store development in C#, VB, or JavaScript. " metaCanonical="" disqusComments="1" umbracoNaviHide="1" />
 
 
 

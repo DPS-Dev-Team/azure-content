@@ -1,4 +1,4 @@
-<properties linkid="manage-services-how-to-create-a-storage-account" urlDisplayName="How to create" pageTitle="How to create a storage account - Windows Azure" title="How to create a storage account - Windows Azure" metaKeywords="" Description="Learn how to create a storage account in the Windows Azure Management Portal." metaCanonical="" disqusComments="1" umbracoNaviHide="0" writer="tysonn" />
+<properties linkid="manage-services-how-to-create-a-storage-account" urlDisplayName="How to create" pageTitle="How to create a storage account - Windows Azure" title="How to create a storage account - Windows Azure" metaKeywords="" description="Learn how to create a storage account in the Windows Azure Management Portal." metaCanonical="" disqusComments="1" umbracoNaviHide="0" writer="tysonn" />
 
 
 <h1><a id="createstorageaccount"></a>How To Create a Storage Account</h1>

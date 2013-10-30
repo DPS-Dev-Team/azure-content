@@ -1,4 +1,4 @@
-<properties linkid="devnav-php-fundamentals" urlDisplayName="Windows Azure Intro" pageTitle="Windows Azure PHP fundamentals" title="Windows Azure PHP fundamentals" metaKeywords="Windows Azure PHP, Azure PHP, PHP Azure, Azure PHP basics" Description="Find introductory topics about using PHP in Windows Azure." metaCanonical="" disqusComments="0" umbracoNaviHide="0" />
+<properties linkid="devnav-php-fundamentals" urlDisplayName="Windows Azure Intro" pageTitle="Windows Azure PHP fundamentals" title="Windows Azure PHP fundamentals" metaKeywords="Windows Azure PHP, Azure PHP, PHP Azure, Azure PHP basics" description="Find introductory topics about using PHP in Windows Azure." metaCanonical="" disqusComments="0" umbracoNaviHide="0" />
 
 
 

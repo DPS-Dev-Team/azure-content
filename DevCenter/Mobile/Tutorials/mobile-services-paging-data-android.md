@@ -1,4 +1,4 @@
-<properties linkid="develop-mobile-tutorials-add-paging-to-data-android" urlDisplayName="Add paging to data" pageTitle="Add paging to data (Android) - Windows Azure Mobile Services" title="Add paging to data (Android) - Windows Azure Mobile Services" metaKeywords="" Description="Learn how to add paging to data in your Android application using Windows Azure Mobile Services." metaCanonical="" disqusComments="1" umbracoNaviHide="1" />
+<properties linkid="develop-mobile-tutorials-add-paging-to-data-android" urlDisplayName="Add paging to data" pageTitle="Add paging to data (Android) - Windows Azure Mobile Services" title="Add paging to data (Android) - Windows Azure Mobile Services" metaKeywords="" description="Learn how to add paging to data in your Android application using Windows Azure Mobile Services." metaCanonical="" disqusComments="1" umbracoNaviHide="1" />
 
 
 # Refine Mobile Services queries with paging

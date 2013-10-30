@@ -1,4 +1,4 @@
-﻿<properties linkid="develop-java-how-to-add-a-certificate" urlDisplayName="Add a Cert to the CA Store" pageTitle="Add a certificate to the Java CA store - Windows Azure" title="Add a certificate to the Java CA store - Windows Azure" metaKeywords="Azure Twilio Java, Twilio Java Certificate, Azure Service Bus Certificate" Description="Learn how to add a certificate authority (CA) certificate to the Java CA certificate (cacerts) store for Twilio service or Windows Azure Service Bus." metaCanonical="" disqusComments="1" umbracoNaviHide="0" writer="waltpo" />
+﻿<properties linkid="develop-java-how-to-add-a-certificate" urlDisplayName="Add a Cert to the CA Store" pageTitle="Add a certificate to the Java CA store - Windows Azure" title="Add a certificate to the Java CA store - Windows Azure" metaKeywords="Azure Twilio Java, Twilio Java Certificate, Azure Service Bus Certificate" description="Learn how to add a certificate authority (CA) certificate to the Java CA certificate (cacerts) store for Twilio service or Windows Azure Service Bus." metaCanonical="" disqusComments="1" umbracoNaviHide="0" writer="waltpo" />
 
 
 

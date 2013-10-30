@@ -1,4 +1,4 @@
-<properties linkid="develop-mobile-tutorials-get-started-with-users-html" writer="glenga" urlDisplayName="Get Started with Authentication" pageTitle="Get started with authentication (JavaScript) - Mobile Services" title="Get started with authentication (JavaScript) - Mobile Services" metaKeywords="" Description="Learn how to use authentication in your HTML app with Windows Azure Mobile Services." metaCanonical="http://www.windowsazure.com/en-us/develop/mobile/tutorials/get-started-with-users-dotnet/" disqusComments="1" umbracoNaviHide="1" />
+<properties linkid="develop-mobile-tutorials-get-started-with-users-html" writer="glenga" urlDisplayName="Get Started with Authentication" pageTitle="Get started with authentication (JavaScript) - Mobile Services" title="Get started with authentication (JavaScript) - Mobile Services" metaKeywords="" description="Learn how to use authentication in your HTML app with Windows Azure Mobile Services." metaCanonical="http://www.windowsazure.com/en-us/develop/mobile/tutorials/get-started-with-users-dotnet/" disqusComments="1" umbracoNaviHide="1" />
 
 
 

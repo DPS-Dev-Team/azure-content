@@ -1,4 +1,4 @@
-<properties linkid="manage-services-hdinsight-introduction-hdinsight" urlDisplayName="Introducing HDInsight" pageTitle="Introducing Windows Azure HDInsight Service" title="Introducing Windows Azure HDInsight Service" metaKeywords="hdinsight, hdinsight service, hdinsight azure, what is hdinsight" Description="Learn about the HDInsight Service for Windows Azure." umbracoNaviHide="0" disqusComments="1" writer="bradsev" editor="mollybos" manager="paulettm" />
+<properties linkid="manage-services-hdinsight-introduction-hdinsight" urlDisplayName="Introducing HDInsight" pageTitle="Introducing Windows Azure HDInsight Service" title="Introducing Windows Azure HDInsight Service" metaKeywords="hdinsight, hdinsight service, hdinsight azure, what is hdinsight" description="Learn about the HDInsight Service for Windows Azure." umbracoNaviHide="0" disqusComments="1" writer="bradsev" editor="mollybos" manager="paulettm" />
 
 # Introduction to Windows Azure HDInsight Service
 

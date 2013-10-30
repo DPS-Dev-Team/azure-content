@@ -1,4 +1,4 @@
-<properties linkid="dev-net-windows8" urlDisplayName="Windows Azure Install Windows 8" pageTitle="Windows Azure on Windows 8" title="Windows Azure on Windows 8" metaKeywords="Installing the Windows Azure SDK on Windows 8" Description="Describes how to install the Windows Azure SDK on Windows 8." metaCanonical="" disqusComments="1" umbracoNaviHide="1" />
+<properties linkid="dev-net-windows8" urlDisplayName="Windows Azure Install Windows 8" pageTitle="Windows Azure on Windows 8" title="Windows Azure on Windows 8" metaKeywords="Installing the Windows Azure SDK on Windows 8" description="Describes how to install the Windows Azure SDK on Windows 8." metaCanonical="" disqusComments="1" umbracoNaviHide="1" />
 
 
 

@@ -1,4 +1,4 @@
-<properties linkid="Install-Config-Windows-Azure-PowerShell" urlDisplayName="Windows Azure PowerShell" pageTitle="How to install and configure Windows Azure PowerShell" title="How to install and configure Windows Azure PowerShell" Description="Learn how to install and configure Windows Azure PowerShell." umbracoNaviHide="0" disqusComments="1" writer="kathydav" editor="tysonn" manager="jeffreyg" /> 
+<properties linkid="Install-Config-Windows-Azure-PowerShell" urlDisplayName="Windows Azure PowerShell" pageTitle="How to install and configure Windows Azure PowerShell" title="How to install and configure Windows Azure PowerShell" description="Learn how to install and configure Windows Azure PowerShell." umbracoNaviHide="0" disqusComments="1" writer="kathydav" editor="tysonn" manager="jeffreyg" /> 
 
 # How to install and configure Windows Azure PowerShell#
 

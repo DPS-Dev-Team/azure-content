@@ -1,4 +1,4 @@
-<properties linkid="develop-java-javadocs" urlDisplayName="Javadocs" pageTitle="Javadocs - Windows Azure resources" title="Javadocs - Windows Azure resources" metaKeywords="" Description="Javadoc API reference for the Windows Azure SDK for Java." metaCanonical="" disqusComments="1" umbracoNaviHide="0" />
+<properties linkid="develop-java-javadocs" urlDisplayName="Javadocs" pageTitle="Javadocs - Windows Azure resources" title="Javadocs - Windows Azure resources" metaKeywords="" description="Javadoc API reference for the Windows Azure SDK for Java." metaCanonical="" disqusComments="1" umbracoNaviHide="0" />
 
 
 

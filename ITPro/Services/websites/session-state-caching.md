@@ -1,4 +1,4 @@
-<properties linkid="manage-services-web-sites-session-state-caching" urlDisplayName="Session State Caching" pageTitle="How to use the Cache service to store session state for web sites" title="How to use the Cache service to store session state for web sites" metaKeywords="" Description="Learn how to use the Windows Azure Cache service to store session state for your ASP.NET web site on Windows Azure." metaCanonical="" disqusComments="1" umbracoNaviHide="1" writer="jroth" />
+<properties linkid="manage-services-web-sites-session-state-caching" urlDisplayName="Session State Caching" pageTitle="How to use the Cache service to store session state for web sites" title="How to use the Cache service to store session state for web sites" metaKeywords="" description="Learn how to use the Windows Azure Cache service to store session state for your ASP.NET web site on Windows Azure." metaCanonical="" disqusComments="1" umbracoNaviHide="1" writer="jroth" />
 
 
 # How to Use ASP.NET Session State with Windows Azure Web Sites

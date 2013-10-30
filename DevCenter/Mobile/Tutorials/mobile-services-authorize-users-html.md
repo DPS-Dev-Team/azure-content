@@ -1,4 +1,4 @@
-<properties linkid="develop-mobile-tutorials-authorize-users-in-scripts-html" writer="glenga" urlDisplayName="Authorize Users in Scripts" pageTitle="Authorize users in scripts (HTML) - Mobile Services" title="Authorize users in scripts (HTML) - Mobile Services" metaKeywords="" Description="Learn how to authorize users in scripts in your HTML app with Windows Azure Mobile Services." metaCanonical="http://www.windowsazure.com/en-us/develop/mobile/tutorials/authorize-users-in-scripts-dotnet/" disqusComments="1" umbracoNaviHide="1" />
+<properties linkid="develop-mobile-tutorials-authorize-users-in-scripts-html" writer="glenga" urlDisplayName="Authorize Users in Scripts" pageTitle="Authorize users in scripts (HTML) - Mobile Services" title="Authorize users in scripts (HTML) - Mobile Services" metaKeywords="" description="Learn how to authorize users in scripts in your HTML app with Windows Azure Mobile Services." metaCanonical="http://www.windowsazure.com/en-us/develop/mobile/tutorials/authorize-users-in-scripts-dotnet/" disqusComments="1" umbracoNaviHide="1" />
 
 
 

@@ -1,4 +1,4 @@
-<properties linkid="notification-hubs-how-to-guides-howto-notify-users-mobileservices" urlDisplayName="Notify Users" pageTitle="Notify Users of your mobile service with Notification Hubs" title="Notify Users of your mobile service with Notification Hubs" metaKeywords="" writer="glenga" Description="Follow this tutorial to register to receive notifications from your mobile service by using Notification Hubs" metaCanonical="" disqusComments="1" umbracoNaviHide="1" />
+<properties linkid="notification-hubs-how-to-guides-howto-notify-users-mobileservices" urlDisplayName="Notify Users" pageTitle="Notify Users of your mobile service with Notification Hubs" title="Notify Users of your mobile service with Notification Hubs" metaKeywords="" writer="glenga" description="Follow this tutorial to register to receive notifications from your mobile service by using Notification Hubs" metaCanonical="" disqusComments="1" umbracoNaviHide="1" />
 
 
 

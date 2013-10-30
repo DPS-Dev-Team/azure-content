@@ -1,4 +1,4 @@
-﻿<properties linkid="develop-net-architecture-multitenant" urlDisplayName="Multitenant applications" pageTitle="Multitenant applications in Windows Azure" title="Multitenant applications in Windows Azure" metaKeywords="Multitenant multi-tenant Pattern Architecture" Description="Multitenant patterns and application architecture using Windows Azure." metaCanonical="http://www.windowsazure.com/en-us/develop/net/architecture" umbracoNaviHide="0" disqusComments="1" />
+﻿<properties linkid="develop-net-architecture-multitenant" urlDisplayName="Multitenant applications" pageTitle="Multitenant applications in Windows Azure" title="Multitenant applications in Windows Azure" metaKeywords="Multitenant multi-tenant Pattern Architecture" description="Multitenant patterns and application architecture using Windows Azure." metaCanonical="http://www.windowsazure.com/en-us/develop/net/architecture" umbracoNaviHide="0" disqusComments="1" />
 <div>
 <div class="left-nav">
 <div class="static-nav">

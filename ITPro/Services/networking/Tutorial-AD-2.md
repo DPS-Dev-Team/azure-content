@@ -1,4 +1,4 @@
-﻿<properties linkid="manage-services-networking-active-directory-forest" urlDisplayName="Active Directory forest" pageTitle="Install Active Directory forest in a Windows Azure network" title="Install Active Directory forest in a Windows Azure network" metaKeywords="" Description="A tutorial that explains how to create a new Active Directory forest on a virtual machine (VM) on Windows Azure Virtual Network." metaCanonical="" disqusComments="1" umbracoNaviHide="0" />
+﻿<properties linkid="manage-services-networking-active-directory-forest" urlDisplayName="Active Directory forest" pageTitle="Install Active Directory forest in a Windows Azure network" title="Install Active Directory forest in a Windows Azure network" metaKeywords="" description="A tutorial that explains how to create a new Active Directory forest on a virtual machine (VM) on Windows Azure Virtual Network." metaCanonical="" disqusComments="1" umbracoNaviHide="0" />
 
 
 #Install a new Active Directory forest in Windows Azure

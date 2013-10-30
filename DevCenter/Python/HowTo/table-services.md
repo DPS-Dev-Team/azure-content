@@ -1,4 +1,4 @@
-﻿<properties linkid="develop-python-table-service" urlDisplayName="Table Service" pageTitle="How to use table storage (Python) - Windows Azure feature guide" title="How to use table storage (Python) - Windows Azure feature guide" metaKeywords="Azure table Python, creating table Azure, deleting table Azure, inserting table Azure, querying table Azure" Description="Learn how to use the Table service from Python to create and delete a table, and insert, delete, and query the table." metaCanonical="" disqusComments="1" umbracoNaviHide="0" />
+﻿<properties linkid="develop-python-table-service" urlDisplayName="Table Service" pageTitle="How to use table storage (Python) - Windows Azure feature guide" title="How to use table storage (Python) - Windows Azure feature guide" metaKeywords="Azure table Python, creating table Azure, deleting table Azure, inserting table Azure, querying table Azure" description="Learn how to use the Table service from Python to create and delete a table, and insert, delete, and query the table." metaCanonical="" disqusComments="1" umbracoNaviHide="0" />
 
 
 

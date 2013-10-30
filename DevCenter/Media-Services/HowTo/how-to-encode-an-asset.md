@@ -1,4 +1,4 @@
-<properties linkid="develop-media-services-how-to-guides-encode-an-asset" urlDisplayName="How to Encode an Asset" pageTitle="How to Encode an Asset for  Media Services - Windows Azure" title="How to Encode an Asset for  Media Services - Windows Azure" metaKeywords="" Description="Learn how to use the Windows Azure Media Encoder to encode media content on Media Services. Code samples are written in C# and use the Media Services SDK for .NET." metaCanonical="" disqusComments="1" umbracoNaviHide="0" writer="migree" />
+<properties linkid="develop-media-services-how-to-guides-encode-an-asset" urlDisplayName="How to Encode an Asset" pageTitle="How to Encode an Asset for  Media Services - Windows Azure" title="How to Encode an Asset for  Media Services - Windows Azure" metaKeywords="" description="Learn how to use the Windows Azure Media Encoder to encode media content on Media Services. Code samples are written in C# and use the Media Services SDK for .NET." metaCanonical="" disqusComments="1" umbracoNaviHide="0" writer="migree" />
 
 
 

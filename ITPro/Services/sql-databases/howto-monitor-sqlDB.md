@@ -1,4 +1,4 @@
-<properties linkid="manage-services-how-to-monitor-a-sqldb" urlDisplayName="How to monitor" pageTitle="How to monitor a SQL Database - Windows Azure service management" title="How to monitor a SQL Database - Windows Azure service management" metaKeywords="" Description="Learn how to monitor a SQL Database using the Windows Azure Management Portal." metaCanonical="" disqusComments="1" umbracoNaviHide="0" />
+<properties linkid="manage-services-how-to-monitor-a-sqldb" urlDisplayName="How to monitor" pageTitle="How to monitor a SQL Database - Windows Azure service management" title="How to monitor a SQL Database - Windows Azure service management" metaKeywords="" description="Learn how to monitor a SQL Database using the Windows Azure Management Portal." metaCanonical="" disqusComments="1" umbracoNaviHide="0" />
 
 
 

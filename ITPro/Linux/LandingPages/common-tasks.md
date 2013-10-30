@@ -1,4 +1,4 @@
-<properties linkid="manage-linux-common-tasks" urlDisplayName="Common tasks" pageTitle="Windows Azure Linux VM Common Tasks" title="Windows Azure Linux VM Common Tasks" metaKeywords="Azure Linux vms, Linux vms, Linux virtual machine" Description="Find topics about common tasks when using Linux virtual machines (VM) in Windows Azure." metaCanonical="" disqusComments="0" umbracoNaviHide="0" />
+<properties linkid="manage-linux-common-tasks" urlDisplayName="Common tasks" pageTitle="Windows Azure Linux VM Common Tasks" title="Windows Azure Linux VM Common Tasks" metaKeywords="Azure Linux vms, Linux vms, Linux virtual machine" description="Find topics about common tasks when using Linux virtual machines (VM) in Windows Azure." metaCanonical="" disqusComments="0" umbracoNaviHide="0" />
 
 
 

@@ -1,4 +1,4 @@
-<properties linkid="develop-python-service-bus-topics" urlDisplayName="Service Bus Topics" pageTitle="How to use Service Bus topics (Python) - Windows Azure" title="How to use Service Bus topics (Python) - Windows Azure" metaKeywords="Get started Azure Service Bus topics publising subscribe messaging Python" Description="Learn how to use Service Bus topics and subscriptions in Windows Azure. Code samples are written for Python applications." metaCanonical="" disqusComments="1" umbracoNaviHide="0" />
+<properties linkid="develop-python-service-bus-topics" urlDisplayName="Service Bus Topics" pageTitle="How to use Service Bus topics (Python) - Windows Azure" title="How to use Service Bus topics (Python) - Windows Azure" metaKeywords="Get started Azure Service Bus topics publising subscribe messaging Python" description="Learn how to use Service Bus topics and subscriptions in Windows Azure. Code samples are written for Python applications." metaCanonical="" disqusComments="1" umbracoNaviHide="0" />
 
 
 

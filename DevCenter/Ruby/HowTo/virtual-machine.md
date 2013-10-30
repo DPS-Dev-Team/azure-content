@@ -1,4 +1,4 @@
-<properties linkid="dev-ruby-how-to-virtual-machine" urlDisplayName="Virtual Machine" pageTitle="How to work with Virtual Machines (Ruby) - Windows Azure" title="How to work with Virtual Machines (Ruby) - Windows Azure" metaKeywords="Ruby virtual machine, ruby azure virtual machine, ruby vm, ruby azure vm" Description="Learn how to use Windows Azure Service Management to create, list, and delete Virtual machines. Samples written in Ruby." metaCanonical="" disqusComments="1" umbracoNaviHide="1" writer="larryfr" />
+<properties linkid="dev-ruby-how-to-virtual-machine" urlDisplayName="Virtual Machine" pageTitle="How to work with Virtual Machines (Ruby) - Windows Azure" title="How to work with Virtual Machines (Ruby) - Windows Azure" metaKeywords="Ruby virtual machine, ruby azure virtual machine, ruby vm, ruby azure vm" description="Learn how to use Windows Azure Service Management to create, list, and delete Virtual machines. Samples written in Ruby." metaCanonical="" disqusComments="1" umbracoNaviHide="1" writer="larryfr" />
 
 #How to Manage Windows Azure Virtual Machines using Ruby
 

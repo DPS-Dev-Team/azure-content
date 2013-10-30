@@ -1,4 +1,4 @@
-<properties linkid="devnav-java-tutorials" urlDisplayName="Tutorials" pageTitle="Windows Azure Java tutorials" title="Windows Azure Java tutorials" metaKeywords="Java tutorials Windows Azure, Java tutorials Azure, Azure Java tutorials, Azure Java" Description="Find tutorials about using Java with Windows Azure." metaCanonical="" disqusComments="0" umbracoNaviHide="0" />
+<properties linkid="devnav-java-tutorials" urlDisplayName="Tutorials" pageTitle="Windows Azure Java tutorials" title="Windows Azure Java tutorials" metaKeywords="Java tutorials Windows Azure, Java tutorials Azure, Azure Java tutorials, Azure Java" description="Find tutorials about using Java with Windows Azure." metaCanonical="" disqusComments="0" umbracoNaviHide="0" />
 
 
 # Java Developer Center - Tutorials

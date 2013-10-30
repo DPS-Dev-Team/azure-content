@@ -1,4 +1,4 @@
-<properties linkid="develop-net-tutorials-push-notifications-to-users-js" urlDisplayName="Push Notifications to Users (JS)" pageTitle="Push notifications to users (JavaScript) - Mobile Services" title="Push notifications to users (JavaScript) - Mobile Services" metaKeywords="" Description="Learn how to push notifications to  users in Windows Store apps that use Windows Azure Mobile Services." metaCanonical="http://www.windowsazure.com/en-us/develop/mobile/tutorials/push-notifications-to-users-dotnet/" disqusComments="1" umbracoNaviHide="1" />
+<properties linkid="develop-net-tutorials-push-notifications-to-users-js" urlDisplayName="Push Notifications to Users (JS)" pageTitle="Push notifications to users (JavaScript) - Mobile Services" title="Push notifications to users (JavaScript) - Mobile Services" metaKeywords="" description="Learn how to push notifications to  users in Windows Store apps that use Windows Azure Mobile Services." metaCanonical="http://www.windowsazure.com/en-us/develop/mobile/tutorials/push-notifications-to-users-dotnet/" disqusComments="1" umbracoNaviHide="1" />
 
 
 

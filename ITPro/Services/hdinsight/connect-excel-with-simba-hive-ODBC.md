@@ -1,4 +1,4 @@
-<properties linkid="manage-services-hdinsight-excel-hiveodbc" urlDisplayName="HDInsight and Excel" pageTitle="Connect Excel to HDInsight with the Simba Hive ODBC Driver for HDinsight" title="Connect Excel to HDInsight with the Simba Hive ODBC Driver for HDinsight" metaKeywords="hdinsight, excel, hiveodbc, hive excel, hdinsight excel" Description="How to use Excel to access data stored in Windows Azure HDInsight using HiveODBC" umbracoNaviHide="0" disqusComments="1" writer="bradsev" editor="mollybos" manager="paulettm" />
+<properties linkid="manage-services-hdinsight-excel-hiveodbc" urlDisplayName="HDInsight and Excel" pageTitle="Connect Excel to HDInsight with the Simba Hive ODBC Driver for HDinsight" title="Connect Excel to HDInsight with the Simba Hive ODBC Driver for HDinsight" metaKeywords="hdinsight, excel, hiveodbc, hive excel, hdinsight excel" description="How to use Excel to access data stored in Windows Azure HDInsight using HiveODBC" umbracoNaviHide="0" disqusComments="1" writer="bradsev" editor="mollybos" manager="paulettm" />
 
 #Connect Excel to HDInsight with the Simba Hive ODBC Driver for HDinsight
 

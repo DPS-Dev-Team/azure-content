@@ -1,4 +1,4 @@
-<properties linkid="develop-net" urlDisplayName="Other" pageTitle="Other services - Windows Azure service management" title="Other services - Windows Azure service management" metaKeywords="Azure services" Description="Find topics about services available in Windows Azure." metaCanonical="" disqusComments="0" umbracoNaviHide="0" />
+<properties linkid="develop-net" urlDisplayName="Other" pageTitle="Other services - Windows Azure service management" title="Other services - Windows Azure service management" metaKeywords="Azure services" description="Find topics about services available in Windows Azure." metaCanonical="" disqusComments="0" umbracoNaviHide="0" />
 
 
 #Other management articlesThe articles in this section will help you manage your applications and services in a Windows Azure environment. New content will be added frequently, so please visit this page for new topics. You can also use the Disqus section below to suggest new topics. 

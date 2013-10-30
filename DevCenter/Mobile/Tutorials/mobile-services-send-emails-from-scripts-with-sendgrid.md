@@ -1,4 +1,4 @@
-<properties linkid="develop-mobile-tutorials-send-email-with-sendgrid" urlDisplayName="Send Email Using SendGrid" pageTitle="Send email using SendGrid - Windows Azure Mobile Services" title="Send email using SendGrid - Windows Azure Mobile Services" metaKeywords="Windows Azure SendGrid, SendGrid service, Azure emailing, mobile services email" Description="Learn how to use the SendGrid service to send email from your Windows Azure Mobile Services app." metaCanonical="" disqusComments="1" umbracoNaviHide="1" />
+<properties linkid="develop-mobile-tutorials-send-email-with-sendgrid" urlDisplayName="Send Email Using SendGrid" pageTitle="Send email using SendGrid - Windows Azure Mobile Services" title="Send email using SendGrid - Windows Azure Mobile Services" metaKeywords="Windows Azure SendGrid, SendGrid service, Azure emailing, mobile services email" description="Learn how to use the SendGrid service to send email from your Windows Azure Mobile Services app." metaCanonical="" disqusComments="1" umbracoNaviHide="1" />
 
 
 

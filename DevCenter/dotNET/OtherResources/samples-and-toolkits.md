@@ -1,4 +1,4 @@
-<properties linkid="dev-net-samples-and-toolkits" urlDisplayName="Samples and Toolkits" pageTitle="Samples and toolkits - Windows Azure resources" title="Samples and toolkits - Windows Azure resources" metaKeywords=" Toolkits Azure samples, Azure code samples, Azure examples, Azure code examples, Azure toolkits, Azure accelerators" Description="Get Windows Azure sample applications, toolkits and accelerators that will help simplify the development of key application scenarios." metaCanonical="" disqusComments="1" umbracoNaviHide="0" />
+<properties linkid="dev-net-samples-and-toolkits" urlDisplayName="Samples and Toolkits" pageTitle="Samples and toolkits - Windows Azure resources" title="Samples and toolkits - Windows Azure resources" metaKeywords=" Toolkits Azure samples, Azure code samples, Azure examples, Azure code examples, Azure toolkits, Azure accelerators" description="Get Windows Azure sample applications, toolkits and accelerators that will help simplify the development of key application scenarios." metaCanonical="" disqusComments="1" umbracoNaviHide="0" />
 
 
 

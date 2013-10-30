@@ -1,4 +1,4 @@
-<properties linkid="dev-node-common-tasks-cmd-line-tools" urlDisplayName="CDN" headerExpose="" pageTitle="How to use the Windows Azure Command-Line Tools for Mac and Linux" title="How to use the Windows Azure Command-Line Tools for Mac and Linux" metaKeywords="azure mac linux" footerExpose="" Description="" umbracoNaviHide="0" disqusComments="1" />
+<properties linkid="dev-node-common-tasks-cmd-line-tools" urlDisplayName="CDN" headerExpose="" pageTitle="How to use the Windows Azure Command-Line Tools for Mac and Linux" title="How to use the Windows Azure Command-Line Tools for Mac and Linux" metaKeywords="azure mac linux" footerExpose="" description="" umbracoNaviHide="0" disqusComments="1" />
 
 
 <div chunk="../../Shared/Chunks/crossplat-cmd-tools.md" />

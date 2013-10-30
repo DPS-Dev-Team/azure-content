@@ -1,4 +1,4 @@
-<properties linkid="devnav-python-otherresources" urlDisplayName="Other Resources" pageTitle="Windows Azure Python resources" title="Windows Azure Python resources" metaKeywords="Azure Python" Description="Find topics about using Python with Windows Azure." metaCanonical="http://www.windowsazure.com/en-us/develop/net/best-practices/" disqusComments="0" umbracoNaviHide="0" />
+<properties linkid="devnav-python-otherresources" urlDisplayName="Other Resources" pageTitle="Windows Azure Python resources" title="Windows Azure Python resources" metaKeywords="Azure Python" description="Find topics about using Python with Windows Azure." metaCanonical="http://www.windowsazure.com/en-us/develop/net/best-practices/" disqusComments="0" umbracoNaviHide="0" />
 
 
 # Python Developer Center - Other Resources

@@ -1,4 +1,4 @@
-﻿<properties linkid="manage-windows-other-resource-sharepoint-wp" urlDisplayName="SharePoint on Azure" pageTitle="SharePoint on Azure" title="SharePoint on Azure" metaKeywords="Azure training kit, Azure trainingkit, Azure training download" Description="Understand the supported scenarios for using SharePoint 2010 on Windows Azure virtual machines." metaCanonical="" disqusComments="1" umbracoNaviHide="0" />
+﻿<properties linkid="manage-windows-other-resource-sharepoint-wp" urlDisplayName="SharePoint on Azure" pageTitle="SharePoint on Azure" title="SharePoint on Azure" metaKeywords="Azure training kit, Azure trainingkit, Azure training download" description="Understand the supported scenarios for using SharePoint 2010 on Windows Azure virtual machines." metaCanonical="" disqusComments="1" umbracoNaviHide="0" />
 
 
 <h1>SharePoint Deployment on Windows Azure Virtual Machines</h1>

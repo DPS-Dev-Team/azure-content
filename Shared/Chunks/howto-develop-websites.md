@@ -1,4 +1,4 @@
-<properties umbracoNaviHide="0" pageTitle="How to Create and Deploy a web site" title="How to Create and Deploy a web site" metaKeywords="Windows Azure Web Sites, deployment, configuration changes, deployment update, Windows Azure .NET deployment, .NET deployment" Description="Learn how to configure web sites in Windows Azure to use a SQL or MySQL database, and learn how to configure diagnostics and download logs." linkid="itpro-windows-howto-configure-websites" urlDisplayName="How to Configure Web Sites" headerExpose="" footerExpose="" disqusComments="1" />
+<properties umbracoNaviHide="0" pageTitle="How to Create and Deploy a web site" title="How to Create and Deploy a web site" metaKeywords="Windows Azure Web Sites, deployment, configuration changes, deployment update, Windows Azure .NET deployment, .NET deployment" description="Learn how to configure web sites in Windows Azure to use a SQL or MySQL database, and learn how to configure diagnostics and download logs." linkid="itpro-windows-howto-configure-websites" urlDisplayName="How to Configure Web Sites" headerExpose="" footerExpose="" disqusComments="1" />
 
 #How to Create and Deploy a Web Site
 

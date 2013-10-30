@@ -1,4 +1,4 @@
-<properties linkid="develop-dotnet-hadoop-learning-resources" urlDisplayName="Hadoop Learning Resources" pageTitle="Hadoop learning resources (.NET) - Windows Azure" title="Hadoop learning resources (.NET) - Windows Azure" metaKeywords="Azure Hadoop topics" Description="Find a variety of topics about Apache Hadoop-based service for Windows Azure as well as the Hadoop and Windows Azure ecosystems." metaCanonical="" disqusComments="1" umbracoNaviHide="1" />
+<properties linkid="develop-dotnet-hadoop-learning-resources" urlDisplayName="Hadoop Learning Resources" pageTitle="Hadoop learning resources (.NET) - Windows Azure" title="Hadoop learning resources (.NET) - Windows Azure" metaKeywords="Azure Hadoop topics" description="Find a variety of topics about Apache Hadoop-based service for Windows Azure as well as the Hadoop and Windows Azure ecosystems." metaCanonical="" disqusComments="1" umbracoNaviHide="1" />
 
 
 <<<<<<< HEAD# Additional resources 

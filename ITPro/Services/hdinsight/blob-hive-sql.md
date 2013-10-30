@@ -1,4 +1,4 @@
-<properties linkid="manage-services-hdinsight-process-blob-data-and-write-to-sql" urlDisplayName="Hadoop with SQL Database" pageTitle="Using HDInsight to process data and store to SQL Database - Windows Azure" title="Using HDInsight to process data and store to SQL Database - Windows Azure" metaKeywords="Azure blob hdinsight, hdinsight blob, hdinsight sql database" Description="How to use HDInsight to retrieve data from Windows Azure Blob Storage, process it, and store the results into a SQL Database." disqusComments="1" umbracoNaviHide="1" writer="bswan"/>
+<properties linkid="manage-services-hdinsight-process-blob-data-and-write-to-sql" urlDisplayName="Hadoop with SQL Database" pageTitle="Using HDInsight to process data and store to SQL Database - Windows Azure" title="Using HDInsight to process data and store to SQL Database - Windows Azure" metaKeywords="Azure blob hdinsight, hdinsight blob, hdinsight sql database" description="How to use HDInsight to retrieve data from Windows Azure Blob Storage, process it, and store the results into a SQL Database." disqusComments="1" umbracoNaviHide="1" writer="bswan"/>
 
 
 
