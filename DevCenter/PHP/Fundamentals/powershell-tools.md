@@ -2,4 +2,4 @@
 
 
 
-<div chunk="../../Shared/Chunks/powershell" />
+<div chunk="../../Shared/Chunks/powershell.md" />

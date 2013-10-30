@@ -38,7 +38,7 @@ This guide shows you how to perform common scenarios using the XXXXX client for 
 	- [Customize data type serialization]
 - [Next steps][]
 
-<div chunk="../chunks/mobile-services-concepts.md" />
+<div chunk="../DevCenter/Mobile/chunks/mobile-services-concepts.md" />
 
 <h2><a name="create-client"></a><span class="short-header">Creating the client</span>How to: Create the Mobile Services client</h2>
 
