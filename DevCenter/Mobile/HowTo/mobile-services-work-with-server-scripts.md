@@ -1,4 +1,4 @@
-<properties linkid="register-for-facebook-auth" writer="ricksal" urldisplayname="Mobile Services" headerexpose="" pageTitle="Work with server scripts in Mobile Services" title="Work with server scripts in Mobile Services" metakeywords="server scripts, mobile devices, Windows Azure, scheduler" footerexpose="" metadescription="Provides examples on how to define, register, and use server scripts in Windows Azure Mobile Services." umbraconavihide="0" disquscomments="1"></properties>
+<properties linkid="register-for-facebook-auth" writer="ricksal" urldisplayname="Mobile Services" headerexpose="" pageTitle="Work with server scripts in Mobile Services" title="Work with server scripts in Mobile Services" metakeywords="server scripts, mobile devices, Windows Azure, scheduler" footerexpose="" description="Provides examples on how to define, register, and use server scripts in Windows Azure Mobile Services." umbraconavihide="0" disquscomments="1"></properties>
 
 # Work with server scripts in Mobile Services
  

@@ -1,4 +1,4 @@
-﻿<properties linkname="dev-nodejs-how-to-sendgrid-email-service" urldisplayname="SendGrid Email Service" headerexpose="" pageTitle="SendGrid Email Service - How To - Node.js - Develop" title="SendGrid Email Service - How To - Node.js - Develop" metakeywords="" footerexpose="" metadescription="" umbraconavihide="0" disquscomments="1"></properties>
+﻿<properties linkname="dev-nodejs-how-to-sendgrid-email-service" urldisplayname="SendGrid Email Service" headerexpose="" pageTitle="SendGrid Email Service - How To - Node.js - Develop" title="SendGrid Email Service - How To - Node.js - Develop" metakeywords="" footerexpose="" description="" umbraconavihide="0" disquscomments="1"></properties>
 
 
 

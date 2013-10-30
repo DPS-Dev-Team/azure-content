@@ -1,4 +1,4 @@
-﻿<properties linkid="dev-net-how-to-sendgrid-email-service" urldisplayname="SendGrid Email Service" headerexpose="" pageTitle="SendGrid Email Service - How To - .NET - Develop" title="SendGrid Email Service - How To - .NET - Develop" metakeywords="" footerexpose="" metadescription="" umbraconavihide="0" disquscomments="1"></properties>
+﻿<properties linkid="dev-net-how-to-sendgrid-email-service" urldisplayname="SendGrid Email Service" headerexpose="" pageTitle="SendGrid Email Service - How To - .NET - Develop" title="SendGrid Email Service - How To - .NET - Develop" metakeywords="" footerexpose="" description="" umbraconavihide="0" disquscomments="1"></properties>
 
 
 # How to Send Email Using SendGrid with Windows Azure

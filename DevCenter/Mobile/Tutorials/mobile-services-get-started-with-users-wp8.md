@@ -1,4 +1,4 @@
-<properties linkid="mobile-get-started-with-users-dotnet" urldisplayname="Mobile Services" headerexpose="" pageTitle="Get started with authentication in Mobile Services" title="Get started with authentication in Mobile Services" metakeywords="Get started Windows Azure Mobile Services, mobile devices, Windows Azure, mobile, Windows 8, WinRT app" footerexpose="" metadescription="Get started using Windows Azure Mobile Services in your Windows Phone apps." umbraconavihide="0" disquscomments="1"></properties>
+<properties linkid="mobile-get-started-with-users-dotnet" urldisplayname="Mobile Services" headerexpose="" pageTitle="Get started with authentication in Mobile Services" title="Get started with authentication in Mobile Services" metakeywords="Get started Windows Azure Mobile Services, mobile devices, Windows Azure, mobile, Windows 8, WinRT app" footerexpose="" description="Get started using Windows Azure Mobile Services in your Windows Phone apps." umbraconavihide="0" disquscomments="1"></properties>
 
 
 
