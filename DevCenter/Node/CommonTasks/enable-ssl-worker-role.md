@@ -1,4 +1,4 @@
-<properties linkid="dev-nodejs-enablessl-worker" urldisplayname="Enable Worker Role SSL" headerexpose="" pagetitle="Enable SSL for a Node.js application in a worker role" metakeywords="Node.js Azure SSL, Node.js Azure HTTPS" footerexpose="" metadescription="Learn how to specify an HTTPS endpoint for a Node.js worker role." umbraconavihide="0" disquscomments="1"></properties>
+<properties linkid="dev-nodejs-enablessl-worker" urldisplayname="Enable Worker Role SSL" headerexpose="" pageTitle="Enable SSL for a Node.js application in a worker role" title="Enable SSL for a Node.js application in a worker role" metakeywords="Node.js Azure SSL, Node.js Azure HTTPS" footerexpose="" metadescription="Learn how to specify an HTTPS endpoint for a Node.js worker role." umbraconavihide="0" disquscomments="1"></properties>
 
 
 
