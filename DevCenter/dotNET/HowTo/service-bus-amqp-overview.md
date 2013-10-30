@@ -3,4 +3,4 @@
 
 
 
-<div chunk="../../Shared/Chunks/service-bus-ampq-overview.md" />
+<div chunk="../../Shared/Chunks/service-bus-amqp-overview.md" />
