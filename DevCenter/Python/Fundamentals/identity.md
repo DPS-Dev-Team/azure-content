@@ -1,4 +1,4 @@
-<properties linkid="dev-net-fundamentals-identity" urlDisplayName="Hybrid Solutions" pageTitle="Windows Azure Identity" Title="Windows Azure Identity" metaKeywords="Azure identity, Azure Active Directory, Azure AD, cloud identity ad, cloud active directory" Description="Learn about using Active Directory in Windows Azure." metaCanonical="" disqusComments="1" umbracoNaviHide="1" />
+<properties linkid="dev-net-fundamentals-identity" urlDisplayName="Hybrid Solutions" pageTitle="Windows Azure Identity" title="Windows Azure Identity" metaKeywords="Azure identity, Azure Active Directory, Azure AD, cloud identity ad, cloud active directory" Description="Learn about using Active Directory in Windows Azure." metaCanonical="" disqusComments="1" umbracoNaviHide="1" />
 
 
 

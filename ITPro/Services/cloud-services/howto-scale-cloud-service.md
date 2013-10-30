@@ -1,4 +1,4 @@
-﻿<properties linkid="manage-services-how-to-scale-a-cloud-service" urlDisplayName="How to scale" pageTitle="How to scale an application - Windows Azure" Title="How to scale an application - Windows Azure" metaKeywords="Azure link resource, scaling applications" Description="Learn how to scale applications in Windows Azure." metaCanonical="" disqusComments="1" umbracoNaviHide="0" writer="davidmu" editor="mattshel" manager="jeffreyg"/>
+﻿<properties linkid="manage-services-how-to-scale-a-cloud-service" urlDisplayName="How to scale" pageTitle="How to scale an application - Windows Azure" title="How to scale an application - Windows Azure" metaKeywords="Azure link resource, scaling applications" Description="Learn how to scale applications in Windows Azure." metaCanonical="" disqusComments="1" umbracoNaviHide="0" writer="davidmu" editor="mattshel" manager="jeffreyg"/>
 
 
 

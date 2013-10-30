@@ -1,4 +1,4 @@
-<properties linkid="manage-windows-commontask-install-sql-server" urlDisplayName="Install SQL Server" pageTitle="Create a virtual machine with SQL Server in Windows Azure " Title="Create a virtual machine with SQL Server in Windows Azure " metaKeywords="Azure tutorial creating SQL Server, SQL Server vm, configuring SQL Server" Description="A tutorial that teaches you how to create and configure a SQL Server virtual machine on Windows Azure." metaCanonical="" disqusComments="1" umbracoNaviHide="0" writer="selcint" editor="tyson" manager="clairt"/>
+<properties linkid="manage-windows-commontask-install-sql-server" urlDisplayName="Install SQL Server" pageTitle="Create a virtual machine with SQL Server in Windows Azure " title="Create a virtual machine with SQL Server in Windows Azure " metaKeywords="Azure tutorial creating SQL Server, SQL Server vm, configuring SQL Server" Description="A tutorial that teaches you how to create and configure a SQL Server virtual machine on Windows Azure." metaCanonical="" disqusComments="1" umbracoNaviHide="0" writer="selcint" editor="tyson" manager="clairt"/>
 
 
 

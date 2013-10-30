@@ -1,4 +1,4 @@
-<properties linkid="manage-services-hdinsight-configure-powershell-for-hdinsight" urlDisplayName="HDInsight Administration" pageTitle="Install and configure PowerShell for HDInsight - Windows Azure" Title="Install and configure PowerShell for HDInsight - Windows Azure" metaKeywords="hdinsight, hdinsight administration, hdinsight administration azure" Description="Learn how to install and configure PowerShell to use with the HDInsight service." umbracoNaviHide="0" disqusComments="1" writer="jgao" editor="cgronlun" manager="paulettm" />
+<properties linkid="manage-services-hdinsight-configure-powershell-for-hdinsight" urlDisplayName="HDInsight Administration" pageTitle="Install and configure PowerShell for HDInsight - Windows Azure" title="Install and configure PowerShell for HDInsight - Windows Azure" metaKeywords="hdinsight, hdinsight administration, hdinsight administration azure" Description="Learn how to install and configure PowerShell to use with the HDInsight service." umbracoNaviHide="0" disqusComments="1" writer="jgao" editor="cgronlun" manager="paulettm" />
 
 #Install and configure PowerShell for HDInsight
 

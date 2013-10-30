@@ -1,4 +1,4 @@
-﻿<properties linkid="dev-nodejs-how-to-blob-storage" urlDisplayName="Blob Service" pageTitle="How to use blob storage (Node.js) - Windows Azure feature guide" Title="How to use blob storage (Node.js) - Windows Azure feature guide" metaKeywords="Get started Azure blob, Azure unstructured data, Azure unstructured storage, Azure blob, Azure blob storage, Azure blob Node.js" Description="Learn how to use the Windows Azure blob service to upload, download, list, and delete blob content. Samples written in Node.js." metaCanonical="" disqusComments="1" umbracoNaviHide="0" />
+﻿<properties linkid="dev-nodejs-how-to-blob-storage" urlDisplayName="Blob Service" pageTitle="How to use blob storage (Node.js) - Windows Azure feature guide" title="How to use blob storage (Node.js) - Windows Azure feature guide" metaKeywords="Get started Azure blob, Azure unstructured data, Azure unstructured storage, Azure blob, Azure blob storage, Azure blob Node.js" Description="Learn how to use the Windows Azure blob service to upload, download, list, and delete blob content. Samples written in Node.js." metaCanonical="" disqusComments="1" umbracoNaviHide="0" />
 
 
 

@@ -1,4 +1,4 @@
-﻿<properties linkid="develop-net-how-to-guides-web-sso" urlDisplayName="Web SSO" pageTitle="Web Single Sign-On with .NET and Windows Azure Active Directory" Title="Web Single Sign-On with .NET and Windows Azure Active Directory" metaKeywords="Azure .NET web app, Azure single sign-on, Azure Active Directory SSO, .NET AAD SSO, ASP.NET SSO Azure" Description="Learn how to create an ASP.NET web application that uses single sign-on with Windows Azure Active Directory." metaCanonical="" disqusComments="1" umbracoNaviHide="1" />
+﻿<properties linkid="develop-net-how-to-guides-web-sso" urlDisplayName="Web SSO" pageTitle="Web Single Sign-On with .NET and Windows Azure Active Directory" title="Web Single Sign-On with .NET and Windows Azure Active Directory" metaKeywords="Azure .NET web app, Azure single sign-on, Azure Active Directory SSO, .NET AAD SSO, ASP.NET SSO Azure" Description="Learn how to create an ASP.NET web application that uses single sign-on with Windows Azure Active Directory." metaCanonical="" disqusComments="1" umbracoNaviHide="1" />
 
 
 

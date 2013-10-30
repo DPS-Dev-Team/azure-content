@@ -1,4 +1,4 @@
-<properties linkid="manage-services-how-to-manage-origins-in-a-media-service" urlDisplayName="How to manage origins" pageTitle="How to manage origins in a media service - Windows Azure" Title="How to manage origins in a media service - Windows Azure" metaKeywords="Azure link resource, managing origins in a media service" Description="Learn how to managing origins in a media service in Windows Azure." metaCanonical="" disqusComments="1" umbracoNaviHide="0" writer="juliako" />
+<properties linkid="manage-services-how-to-manage-origins-in-a-media-service" urlDisplayName="How to manage origins" pageTitle="How to manage origins in a media service - Windows Azure" title="How to manage origins in a media service - Windows Azure" metaKeywords="Azure link resource, managing origins in a media service" Description="Learn how to managing origins in a media service in Windows Azure." metaCanonical="" disqusComments="1" umbracoNaviHide="0" writer="juliako" />
 
 
 

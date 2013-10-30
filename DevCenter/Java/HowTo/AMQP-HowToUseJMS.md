@@ -1,4 +1,4 @@
-﻿<properties linkid="develop-java-how-to-guides-service-bus-amqp" urlDisplayName="Service Bus AMQP" pageTitle="How to use AMQP 1.0 with the Java Service Bus API - Windows Azure" Title="How to use AMQP 1.0 with the Java Service Bus API - Windows Azure" metaKeywords="" Description="Learn how to use the Java Message Service (JMS) with Windows Azure Service Bus and Advanced Message Queuing Protocol (AMQP) 1.0." metaCanonical="" disqusComments="1" umbracoNaviHide="0" writer="sethm" editor="mattshel" manager="dwrede" />
+﻿<properties linkid="develop-java-how-to-guides-service-bus-amqp" urlDisplayName="Service Bus AMQP" pageTitle="How to use AMQP 1.0 with the Java Service Bus API - Windows Azure" title="How to use AMQP 1.0 with the Java Service Bus API - Windows Azure" metaKeywords="" Description="Learn how to use the Java Message Service (JMS) with Windows Azure Service Bus and Advanced Message Queuing Protocol (AMQP) 1.0." metaCanonical="" disqusComments="1" umbracoNaviHide="0" writer="sethm" editor="mattshel" manager="dwrede" />
 
 
 # How to use the Java Message Service (JMS) API with Service Bus & AMQP 1.0

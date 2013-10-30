@@ -1,4 +1,4 @@
-<properties linkid="manage-services-how-to-manage-a-storage-account" urlDisplayName="How to manage" pageTitle="How to manage a storage account - Windows Azure" Title="How to manage a storage account - Windows Azure" metaKeywords="Azure manage storage accounts, storage account management portal, storage account geo-replication, Azure geo-replication, Azure access keys" Description="Learn how to manage storage accounts in Windows Azure by using the Management Portal." metaCanonical="" disqusComments="1" umbracoNaviHide="0" writer="tysonn" />
+<properties linkid="manage-services-how-to-manage-a-storage-account" urlDisplayName="How to manage" pageTitle="How to manage a storage account - Windows Azure" title="How to manage a storage account - Windows Azure" metaKeywords="Azure manage storage accounts, storage account management portal, storage account geo-replication, Azure geo-replication, Azure access keys" Description="Learn how to manage storage accounts in Windows Azure by using the Management Portal." metaCanonical="" disqusComments="1" umbracoNaviHide="0" writer="tysonn" />
 
 
 

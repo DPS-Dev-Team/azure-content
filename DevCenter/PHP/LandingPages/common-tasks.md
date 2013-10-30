@@ -1,4 +1,4 @@
-<properties linkid="devnav-php-commontasks" urlDisplayName="Common Tasks" pageTitle="Windows Azure PHP Common Tasks" Title="Windows Azure PHP Common Tasks" metaKeywords="Azure PHP" Description="Find topics about using PHP in Windows Azure." metaCanonical="" disqusComments="0" umbracoNaviHide="0" />
+<properties linkid="devnav-php-commontasks" urlDisplayName="Common Tasks" pageTitle="Windows Azure PHP Common Tasks" title="Windows Azure PHP Common Tasks" metaKeywords="Azure PHP" Description="Find topics about using PHP in Windows Azure." metaCanonical="" disqusComments="0" umbracoNaviHide="0" />
 
 
 #PHP Developer Center - Common tasks

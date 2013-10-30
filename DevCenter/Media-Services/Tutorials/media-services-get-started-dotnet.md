@@ -1,4 +1,4 @@
-<properties linkid="develop-media-tutorials-get-started" urlDisplayName="Get Started" pageTitle="Get Started with Windows Azure Media Services" Title="Get Started with Windows Azure Media Services" metaKeywords="" Description="Follow this tutorial to get started using Windows Azure Media Services in C#." metaCanonical="" disqusComments="1" umbracoNaviHide="1" />
+<properties linkid="develop-media-tutorials-get-started" urlDisplayName="Get Started" pageTitle="Get Started with Windows Azure Media Services" title="Get Started with Windows Azure Media Services" metaKeywords="" Description="Follow this tutorial to get started using Windows Azure Media Services in C#." metaCanonical="" disqusComments="1" umbracoNaviHide="1" />
 
 
 

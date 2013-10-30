@@ -1,4 +1,4 @@
-<properties linkid="develop-mobile-tutorials-validate-modify-and-augment-data-js" urlDisplayName="Validate Data" pageTitle="Use server scripts to validate data (JavaScript)" Title="Use server scripts to validate data (JavaScript)" metaKeywords="" Description="Learn how to use server scripts to validate, modify, and augment data with Windows Azure Mobile Services." metaCanonical="http://www.windowsazure.com/en-us/develop/mobile/tutorials/validate-modify-and-augment-data-dotnet/" disqusComments="1" umbracoNaviHide="1" />
+<properties linkid="develop-mobile-tutorials-validate-modify-and-augment-data-js" urlDisplayName="Validate Data" pageTitle="Use server scripts to validate data (JavaScript)" title="Use server scripts to validate data (JavaScript)" metaKeywords="" Description="Learn how to use server scripts to validate, modify, and augment data with Windows Azure Mobile Services." metaCanonical="http://www.windowsazure.com/en-us/develop/mobile/tutorials/validate-modify-and-augment-data-dotnet/" disqusComments="1" umbracoNaviHide="1" />
 
 
 

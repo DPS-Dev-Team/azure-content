@@ -1,4 +1,4 @@
-<properties linkid="manage-services-how-to-configure-a-sqldb" urlDisplayName="How to configure" pageTitle="How to configure a SQL Database - Windows Azure" Title="How to configure a SQL Database - Windows Azure" metaKeywords="Azure creating SQL Server, Azure configuring SQL Server" Description="Learn how to create and configure a logical server using SQL Server in Windows Azure." metaCanonical="" disqusComments="1" umbracoNaviHide="0" />
+<properties linkid="manage-services-how-to-configure-a-sqldb" urlDisplayName="How to configure" pageTitle="How to configure a SQL Database - Windows Azure" title="How to configure a SQL Database - Windows Azure" metaKeywords="Azure creating SQL Server, Azure configuring SQL Server" Description="Learn how to create and configure a logical server using SQL Server in Windows Azure." metaCanonical="" disqusComments="1" umbracoNaviHide="0" />
 
 
 

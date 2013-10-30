@@ -1,4 +1,4 @@
-<properties linkid="develop-mobile-tutorials-get-started-with-users-ios" urlDisplayName="Get Started with Authentication (iOS)" pageTitle="Get started with authentication (iOS) - Mobile Services" Title="Get started with authentication (iOS) - Mobile Services" metaKeywords="Windows Azure registering application, Azure authentication, application authenticate, authenticate mobile services, Mobile Services iOS" Description="Learn how to use authentication in your Windows Azure Mobile Services app for iOS." metaCanonical="" disqusComments="1" umbracoNaviHide="1" />
+<properties linkid="develop-mobile-tutorials-get-started-with-users-ios" urlDisplayName="Get Started with Authentication (iOS)" pageTitle="Get started with authentication (iOS) - Mobile Services" title="Get started with authentication (iOS) - Mobile Services" metaKeywords="Windows Azure registering application, Azure authentication, application authenticate, authenticate mobile services, Mobile Services iOS" Description="Learn how to use authentication in your Windows Azure Mobile Services app for iOS." metaCanonical="" disqusComments="1" umbracoNaviHide="1" />
 
 
 

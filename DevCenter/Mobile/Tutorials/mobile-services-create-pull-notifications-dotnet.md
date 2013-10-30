@@ -1,4 +1,4 @@
-<properties linkid="mobile-services-create-pull-notifications-dotnet" writer="glenga" urlDisplayName="Define a custom API that supports pull notifications" pageTitle="Define a custom API that supports pull notifications - Windows Azure Mobile Services" Title="Define a custom API that supports pull notifications - Windows Azure Mobile Services" metaKeywords="custom api" Description="Learn how to Define a custom API that supports periodic notifications in Windows Store apps that use Windows Azure Mobile Services." metaCanonical="" disqusComments="1" umbracoNaviHide="1" />
+<properties linkid="mobile-services-create-pull-notifications-dotnet" writer="glenga" urlDisplayName="Define a custom API that supports pull notifications" pageTitle="Define a custom API that supports pull notifications - Windows Azure Mobile Services" title="Define a custom API that supports pull notifications - Windows Azure Mobile Services" metaKeywords="custom api" Description="Learn how to Define a custom API that supports periodic notifications in Windows Store apps that use Windows Azure Mobile Services." metaCanonical="" disqusComments="1" umbracoNaviHide="1" />
 
 
 

@@ -1,4 +1,4 @@
-<properties linkid="manage-services-hdinsight-avoid-WASB-throttling" urlDisplayName="HDInsight Administration" pageTitle="Avoid WASB throttling - Windows Azure" Title="Avoid WASB throttling - Windows Azure" metaKeywords="hdinsight, hdinsight administration, hdinsight administration azure" Description="Learn how to avoid throttling with the Windows Azure Storage - Blob service." umbracoNaviHide="0" disqusComments="1" writer="bradsev" editor="cgronlun" manager="paulettm" />
+<properties linkid="manage-services-hdinsight-avoid-WASB-throttling" urlDisplayName="HDInsight Administration" pageTitle="Avoid WASB throttling - Windows Azure" title="Avoid WASB throttling - Windows Azure" metaKeywords="hdinsight, hdinsight administration, hdinsight administration azure" Description="Learn how to avoid throttling with the Windows Azure Storage - Blob service." umbracoNaviHide="0" disqusComments="1" writer="bradsev" editor="cgronlun" manager="paulettm" />
 
 # TODO: Add title of the guide, using sentence casing
 

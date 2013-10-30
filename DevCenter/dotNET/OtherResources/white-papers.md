@@ -1,7 +1,7 @@
-<properties linkid="dev-net-white-papers" urlDisplayName="White Papers" pageTitle="White Papers  - Windows Azure resources" Title="White Papers  - Windows Azure resources" metaKeywords="Azure whitepapers" Description="Download popular Windows Azure white papers." metaCanonical="" disqusComments="1" umbracoNaviHide="0" />
+<properties linkid="dev-net-white-papers" urlDisplayName="White Papers" pageTitle="White Papers  - Windows Azure resources" title="White Papers  - Windows Azure resources" metaKeywords="Azure whitepapers" Description="Download popular Windows Azure white papers." metaCanonical="" disqusComments="1" umbracoNaviHide="0" />
 
 
-  <properties linkid="dev-net-white-papers" urlDisplayName="White Papers" headerExpose="" pageTitle="White Papers on Windows Azure" Title="White Papers on Windows Azure" metaKeywords="" footerExpose="" Description="" umbracoNaviHide="0" disqusComments="1" />
+  <properties linkid="dev-net-white-papers" urlDisplayName="White Papers" headerExpose="" pageTitle="White Papers on Windows Azure" title="White Papers on Windows Azure" metaKeywords="" footerExpose="" Description="" umbracoNaviHide="0" disqusComments="1" />
 
 
  <div chunk="../../Shared/Chunks/white-papers.md" />

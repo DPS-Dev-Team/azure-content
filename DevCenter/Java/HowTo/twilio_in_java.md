@@ -1,4 +1,4 @@
-﻿<properties linkid="develop-java-how-to-twilio-sms-service" urlDisplayName="Twilio Voice/SMS Service" pageTitle="How to Use Twilio for Voice and SMS (Java) - Windows Azure" Title="How to Use Twilio for Voice and SMS (Java) - Windows Azure" metaKeywords="Twilio, Twilio API, phone calls, SMS message, TwiML responses, Azure Twilio Java" Description="Learn how to make a phone call and send a SMS message with the Twilio API service on Windows Azure. Code samples written in Java." metaCanonical="" disqusComments="1" umbracoNaviHide="0" />
+﻿<properties linkid="develop-java-how-to-twilio-sms-service" urlDisplayName="Twilio Voice/SMS Service" pageTitle="How to Use Twilio for Voice and SMS (Java) - Windows Azure" title="How to Use Twilio for Voice and SMS (Java) - Windows Azure" metaKeywords="Twilio, Twilio API, phone calls, SMS message, TwiML responses, Azure Twilio Java" Description="Learn how to make a phone call and send a SMS message with the Twilio API service on Windows Azure. Code samples written in Java." metaCanonical="" disqusComments="1" umbracoNaviHide="0" />
 
 
 

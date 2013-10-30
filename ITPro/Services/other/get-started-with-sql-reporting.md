@@ -1,4 +1,4 @@
-﻿<properties linkid="manage-services-sql-reporting" urlDisplayName="SQL Reporting" pageTitle="SQL Reporting - Windows Azure service management" Title="SQL Reporting - Windows Azure service management" metaKeywords="" Description="A tutorial that teaches you how to use the Windows Azure Management portal to create and use a SQL Reporting service." metaCanonical="" disqusComments="1" umbracoNaviHide="0" writer="tysonn" />
+﻿<properties linkid="manage-services-sql-reporting" urlDisplayName="SQL Reporting" pageTitle="SQL Reporting - Windows Azure service management" title="SQL Reporting - Windows Azure service management" metaKeywords="" Description="A tutorial that teaches you how to use the Windows Azure Management portal to create and use a SQL Reporting service." metaCanonical="" disqusComments="1" umbracoNaviHide="0" writer="tysonn" />
 
 
 #Create and use a reporting service in Windows Azure SQL Reporting#

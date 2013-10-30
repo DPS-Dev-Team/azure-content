@@ -1,4 +1,4 @@
-<properties linkid="develop-mobile-tutorials-push-notifications-to-users-dotnet" writer="glenga" urlDisplayName="Push Notifications to Users" pageTitle="Push Notifications to app users - Windows Azure Mobile Services" Title="Push Notifications to app users - Windows Azure Mobile Services" metaKeywords="" Description="Learn how to push notifications to app users in Windows Store apps that use Windows Azure Mobile Services." metaCanonical="" disqusComments="1" umbracoNaviHide="1" />
+<properties linkid="develop-mobile-tutorials-push-notifications-to-users-dotnet" writer="glenga" urlDisplayName="Push Notifications to Users" pageTitle="Push Notifications to app users - Windows Azure Mobile Services" title="Push Notifications to app users - Windows Azure Mobile Services" metaKeywords="" Description="Learn how to push notifications to app users in Windows Store apps that use Windows Azure Mobile Services." metaCanonical="" disqusComments="1" umbracoNaviHide="1" />
 
 
 

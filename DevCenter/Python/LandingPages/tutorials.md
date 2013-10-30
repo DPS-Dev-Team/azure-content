@@ -1,4 +1,4 @@
-<properties linkid="devnav-python-tutorials" urlDisplayName="Tutorials" pageTitle="Windows Azure Python tutorials" Title="Windows Azure Python tutorials" metaKeywords="Python tutorials Windows Azure, Python tutorials Azure, Azure Python tutorials, Azure Python" Description="Find tutorials about using Python with Windows Azure." metaCanonical="" disqusComments="0" umbracoNaviHide="0" />
+<properties linkid="devnav-python-tutorials" urlDisplayName="Tutorials" pageTitle="Windows Azure Python tutorials" title="Windows Azure Python tutorials" metaKeywords="Python tutorials Windows Azure, Python tutorials Azure, Azure Python tutorials, Azure Python" Description="Find tutorials about using Python with Windows Azure." metaCanonical="" disqusComments="0" umbracoNaviHide="0" />
 
 
 #Python Developer Center - Tutorials

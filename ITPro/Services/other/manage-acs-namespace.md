@@ -1,4 +1,4 @@
-﻿<properties linkid="manage-services-manage-acs" urlDisplayName="Manage ACS" pageTitle="Access Control Service - Windows Azure service management" Title="Access Control Service - Windows Azure service management" metaKeywords="" Description="Learn how to manage your Windows Azure Access Control Service (ACS) using certificates and keys." metaCanonical="" disqusComments="1" umbracoNaviHide="0" />
+﻿<properties linkid="manage-services-manage-acs" urlDisplayName="Manage ACS" pageTitle="Access Control Service - Windows Azure service management" title="Access Control Service - Windows Azure service management" metaKeywords="" Description="Learn how to manage your Windows Azure Access Control Service (ACS) using certificates and keys." metaCanonical="" disqusComments="1" umbracoNaviHide="0" />
 
 
 

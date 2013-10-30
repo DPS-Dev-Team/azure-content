@@ -1,4 +1,4 @@
-﻿<properties linkid="develop-java-how-to-guides-access-control" urlDisplayName="Access Control" pageTitle="How to use Access Control (Java) - Windows Azure feature guide" Title="How to use Access Control (Java) - Windows Azure feature guide" metaKeywords="" Description="Learn how to develop and use Access Control with Java in Windows Azure." metaCanonical="" disqusComments="1" umbracoNaviHide="0" writer="waltpo" />
+﻿<properties linkid="develop-java-how-to-guides-access-control" urlDisplayName="Access Control" pageTitle="How to use Access Control (Java) - Windows Azure feature guide" title="How to use Access Control (Java) - Windows Azure feature guide" metaKeywords="" Description="Learn how to develop and use Access Control with Java in Windows Azure." metaCanonical="" disqusComments="1" umbracoNaviHide="0" writer="waltpo" />
 
 
 

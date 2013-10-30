@@ -1,4 +1,4 @@
-<properties linkid="develop-notificationhubs-tutorials-send-localized-breaking-news-windowsdotnet" writer="ricksal" urlDisplayName="Localized Breaking News" pageTitle="Notification Hubs Localized Breaking News Tutorial" Title="Notification Hubs Localized Breaking News Tutorial" metaKeywords="" Description="Learn how to use Windows Azure Service Bus Notification Hubs to send localized breaking news notifications." metaCanonical="" disqusComments="1" umbracoNaviHide="1" />
+<properties linkid="develop-notificationhubs-tutorials-send-localized-breaking-news-windowsdotnet" writer="ricksal" urlDisplayName="Localized Breaking News" pageTitle="Notification Hubs Localized Breaking News Tutorial" title="Notification Hubs Localized Breaking News Tutorial" metaKeywords="" Description="Learn how to use Windows Azure Service Bus Notification Hubs to send localized breaking news notifications." metaCanonical="" disqusComments="1" umbracoNaviHide="1" />
 
 
 

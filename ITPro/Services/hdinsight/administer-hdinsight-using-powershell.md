@@ -1,4 +1,4 @@
-<properties linkid="manage-services-hdinsight-administer-hdinsight-using-powershell" urlDisplayName="HDInsight Administration" pageTitle="Administer HDInsight using PowerShell - Windows Azure" Title="Administer HDInsight using PowerShell - Windows Azure" metaKeywords="hdinsight, hdinsight administration, hdinsight administration azure" Description="Learn how to perform administrative tasks for the HDInsight service using PowerShell." umbracoNaviHide="0" disqusComments="1" writer="jgao" editor="cgronlun" manager="paulettm" />
+<properties linkid="manage-services-hdinsight-administer-hdinsight-using-powershell" urlDisplayName="HDInsight Administration" pageTitle="Administer HDInsight using PowerShell - Windows Azure" title="Administer HDInsight using PowerShell - Windows Azure" metaKeywords="hdinsight, hdinsight administration, hdinsight administration azure" Description="Learn how to perform administrative tasks for the HDInsight service using PowerShell." umbracoNaviHide="0" disqusComments="1" writer="jgao" editor="cgronlun" manager="paulettm" />
 
 # Administer HDInsight using PowerShell
 

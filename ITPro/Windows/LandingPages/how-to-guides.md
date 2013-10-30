@@ -1,4 +1,4 @@
-<properties linkid="manage-windows-how-to" urlDisplayName="How to guides" pageTitle="Windows Azure Windows virtual machine how-to guides" Title="Windows Azure Windows virtual machine how-to guides" metaKeywords="Azure VMs, Windows vms, Windows virtual machine, Azure virtual machine" Description="Find topics about Windows virtual machines (VMs) on Windows Azure." metaCanonical="" disqusComments="0" umbracoNaviHide="0" />
+<properties linkid="manage-windows-how-to" urlDisplayName="How to guides" pageTitle="Windows Azure Windows virtual machine how-to guides" title="Windows Azure Windows virtual machine how-to guides" metaKeywords="Azure VMs, Windows vms, Windows virtual machine, Azure virtual machine" Description="Find topics about Windows virtual machines (VMs) on Windows Azure." metaCanonical="" disqusComments="0" umbracoNaviHide="0" />
 
 
 

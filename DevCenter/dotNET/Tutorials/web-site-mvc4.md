@@ -1,4 +1,4 @@
-<properties linkid="develop-net-tutorials-get-started" urlDisplayName="Get started with Windows Azure and ASP.NET" pageTitle="Get started with Windows Azure and ASP.NET" Title="Get started with Windows Azure and ASP.NET" metaKeywords="" Description="This tutorial shows you how to deploy an ASP.NET web site to Windows Azure. In less than 15 minutes you'll have an app up-and-running in the cloud." metaCanonical="" disqusComments="1" umbracoNaviHide="1" writer="tdykstra" editor="mollybos" manager="wpickett" />
+<properties linkid="develop-net-tutorials-get-started" urlDisplayName="Get started with Windows Azure and ASP.NET" pageTitle="Get started with Windows Azure and ASP.NET" title="Get started with Windows Azure and ASP.NET" metaKeywords="" Description="This tutorial shows you how to deploy an ASP.NET web site to Windows Azure. In less than 15 minutes you'll have an app up-and-running in the cloud." metaCanonical="" disqusComments="1" umbracoNaviHide="1" writer="tdykstra" editor="mollybos" manager="wpickett" />
 
 
 

@@ -1,4 +1,4 @@
-<properties linkid="devnav-java-fundamentals" urlDisplayName="Windows Azure Intro" pageTitle="Windows Azure Java fundamentals" Title="Windows Azure Java fundamentals" metaKeywords="Windows Azure Java, Azure Java, Java Azure, Azure Java basics" Description="Find introductory topics about using Java in Windows Azure." metaCanonical="" disqusComments="0" umbracoNaviHide="0" />
+<properties linkid="devnav-java-fundamentals" urlDisplayName="Windows Azure Intro" pageTitle="Windows Azure Java fundamentals" title="Windows Azure Java fundamentals" metaKeywords="Windows Azure Java, Azure Java, Java Azure, Azure Java basics" Description="Find introductory topics about using Java in Windows Azure." metaCanonical="" disqusComments="0" umbracoNaviHide="0" />
 
 
 

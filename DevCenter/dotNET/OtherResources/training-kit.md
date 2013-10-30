@@ -1,4 +1,4 @@
-<properties linkid="dev-net-training-kit" urlDisplayName="Training Kit" pageTitle="Windows Azure Training Kit - Windows Azure resources" Title="Windows Azure Training Kit - Windows Azure resources" metaKeywords="Azure training kit, Azure trainingkit, Azure training download" Description="Download and install the Windows Azure training kit which provides a comprehensive set of technical content to help you learn about Windows Azure." metaCanonical="" disqusComments="1" umbracoNaviHide="0" />
+<properties linkid="dev-net-training-kit" urlDisplayName="Training Kit" pageTitle="Windows Azure Training Kit - Windows Azure resources" title="Windows Azure Training Kit - Windows Azure resources" metaKeywords="Azure training kit, Azure trainingkit, Azure training download" Description="Download and install the Windows Azure training kit which provides a comprehensive set of technical content to help you learn about Windows Azure." metaCanonical="" disqusComments="1" umbracoNaviHide="0" />
 
 
 

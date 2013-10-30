@@ -1,4 +1,4 @@
-<properties linkid="develop-net" urlDisplayName="Big Data" pageTitle="Big Data - Windows Azure .NET Scenarios" Title="Big Data - Windows Azure .NET Scenarios" metaKeywords="Azure ideas for big data, Azure scenario" Description="Find big data scenarios for Windows Azure." metaCanonical="" disqusComments="0" umbracoNaviHide="0" />
+<properties linkid="develop-net" urlDisplayName="Big Data" pageTitle="Big Data - Windows Azure .NET Scenarios" title="Big Data - Windows Azure .NET Scenarios" metaKeywords="Azure ideas for big data, Azure scenario" Description="Find big data scenarios for Windows Azure." metaCanonical="" disqusComments="0" umbracoNaviHide="0" />
 
 
 <h1>Big Data Scenarios</h1>

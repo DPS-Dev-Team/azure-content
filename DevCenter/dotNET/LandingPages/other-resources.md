@@ -1,4 +1,4 @@
-<properties linkid="dev-net-other-resources" urlDisplayName="Other Resources" pageTitle="Windows Azure .NET resources" Title="Windows Azure .NET resources" metaKeywords="Azure .NET" Description="Find topics about using .NET with Windows Azure." metaCanonical="" disqusComments="0" umbracoNaviHide="0" />
+<properties linkid="dev-net-other-resources" urlDisplayName="Other Resources" pageTitle="Windows Azure .NET resources" title="Windows Azure .NET resources" metaKeywords="Azure .NET" Description="Find topics about using .NET with Windows Azure." metaCanonical="" disqusComments="0" umbracoNaviHide="0" />
 
 
 #.NET Developer Center - Other resources

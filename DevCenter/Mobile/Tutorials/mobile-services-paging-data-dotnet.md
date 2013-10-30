@@ -1,4 +1,4 @@
-<properties linkid="develop-mobile-tutorials-add-paging-to-data-dotnet" writer="glenga" urlDisplayName="Add Paging to Your Data" pageTitle="Add paging to your data - Windows Azure Mobile Services" Title="Add paging to your data - Windows Azure Mobile Services" metaKeywords="" Description="Learn how to add paging to your data in Windows Azure Mobile Services." metaCanonical="" disqusComments="1" umbracoNaviHide="1" />
+<properties linkid="develop-mobile-tutorials-add-paging-to-data-dotnet" writer="glenga" urlDisplayName="Add Paging to Your Data" pageTitle="Add paging to your data - Windows Azure Mobile Services" title="Add paging to your data - Windows Azure Mobile Services" metaKeywords="" Description="Learn how to add paging to your data in Windows Azure Mobile Services." metaCanonical="" disqusComments="1" umbracoNaviHide="1" />
 
 
 

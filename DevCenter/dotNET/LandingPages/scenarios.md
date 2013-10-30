@@ -1,4 +1,4 @@
-<properties linkid="dev-net-scenarios" urlDisplayName="Scenarios" pageTitle="Windows Azure .NET scenarios" Title="Windows Azure .NET scenarios" metaKeywords=".NET scenarios, .NET scenarios Windows Azure, .NET Azure" Description="Find topics about common .NET scenarios in Windows Azure." metaCanonical="" disqusComments="0" umbracoNaviHide="0" />
+<properties linkid="dev-net-scenarios" urlDisplayName="Scenarios" pageTitle="Windows Azure .NET scenarios" title="Windows Azure .NET scenarios" metaKeywords=".NET scenarios, .NET scenarios Windows Azure, .NET Azure" Description="Find topics about common .NET scenarios in Windows Azure." metaCanonical="" disqusComments="0" umbracoNaviHide="0" />
 
 
 #.NET Developer Center - Scenarios

@@ -1,4 +1,4 @@
-<properties linkid="manage-services-hdinsight-using-mapreduce" urlDisplayName="Use MapReduce" pageTitle="Using MapReduce with HDInsight - Windows Azure tutorial" Title="Using MapReduce with HDInsight - Windows Azure tutorial" metaKeywords="using mapreduce, mapreduce hdinsight, mapreduce azure" Description="Learn how to use MapReduce with HDInsight." metaCanonical="" umbracoNaviHide="0" disqusComments="1" writer="jgao" editor="cgronlun" manager="paulettm" />
+<properties linkid="manage-services-hdinsight-using-mapreduce" urlDisplayName="Use MapReduce" pageTitle="Using MapReduce with HDInsight - Windows Azure tutorial" title="Using MapReduce with HDInsight - Windows Azure tutorial" metaKeywords="using mapreduce, mapreduce hdinsight, mapreduce azure" Description="Learn how to use MapReduce with HDInsight." metaCanonical="" umbracoNaviHide="0" disqusComments="1" writer="jgao" editor="cgronlun" manager="paulettm" />
 
 # Use MapReduce with HDInsight#
  

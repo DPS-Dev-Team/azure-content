@@ -1,4 +1,4 @@
-<properties linkid="manage-services-hdinsight-monitor" urlDisplayName="Monitoring HDInsight" pageTitle="How to monitor HDInsight - Windows Azure guidance" Title="How to monitor HDInsight - Windows Azure guidance" metaKeywords="hdinsight, hdinsight monitor, hdinsight monitor azure, hdinsight job monitor" Description="Learn how to monitor jobs submitted to the HDInsight service." umbracoNaviHide="0" disqusComments="1" writer="jgao" editor="mollybos" manager="paulettm" />
+<properties linkid="manage-services-hdinsight-monitor" urlDisplayName="Monitoring HDInsight" pageTitle="How to monitor HDInsight - Windows Azure guidance" title="How to monitor HDInsight - Windows Azure guidance" metaKeywords="hdinsight, hdinsight monitor, hdinsight monitor azure, hdinsight job monitor" Description="Learn how to monitor jobs submitted to the HDInsight service." umbracoNaviHide="0" disqusComments="1" writer="jgao" editor="mollybos" manager="paulettm" />
 
 
 # How to Monitor HDInsight

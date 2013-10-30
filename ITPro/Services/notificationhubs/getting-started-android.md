@@ -1,4 +1,4 @@
-<properties linkid="develop-notificationhubs-tutorials-get-started-android" writer="elioda" urlDisplayName="Get Started" pageTitle="Get Started with Windows Azure Notification Hubs" Title="Get Started with Windows Azure Notification Hubs" metaKeywords="" Description="Learn how to use Windows Azure Notification Hubs to push notifications." metaCanonical="" disqusComments="0" umbracoNaviHide="1" />
+<properties linkid="develop-notificationhubs-tutorials-get-started-android" writer="elioda" urlDisplayName="Get Started" pageTitle="Get Started with Windows Azure Notification Hubs" title="Get Started with Windows Azure Notification Hubs" metaKeywords="" Description="Learn how to use Windows Azure Notification Hubs to push notifications." metaCanonical="" disqusComments="0" umbracoNaviHide="1" />
 
 
 

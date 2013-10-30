@@ -1,4 +1,4 @@
-<properties linkid="manage-services-hdinsight-using-pig" urlDisplayName="Using Pig" pageTitle="Using Pig with HDInsight - Windows Azure tutorial" Title="Using Pig with HDInsight - Windows Azure tutorial" metaKeywords="using pig, pig hdinsight, pig azure, powershell" Description="Learn how to use Pig with HDInsight." metaCanonical="" umbracoNaviHide="0" disqusComments="1" writer="jgao" editor="cgronlun" manager="paulettm" />
+<properties linkid="manage-services-hdinsight-using-pig" urlDisplayName="Using Pig" pageTitle="Using Pig with HDInsight - Windows Azure tutorial" title="Using Pig with HDInsight - Windows Azure tutorial" metaKeywords="using pig, pig hdinsight, pig azure, powershell" Description="Learn how to use Pig with HDInsight." metaCanonical="" umbracoNaviHide="0" disqusComments="1" writer="jgao" editor="cgronlun" manager="paulettm" />
 
 # Using Pig with HDInsight #
 

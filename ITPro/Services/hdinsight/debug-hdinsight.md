@@ -1,4 +1,4 @@
-<properties linkid="manage-services-hdinsight-debug-hdinsight" urlDisplayName="HDInsight Administration" pageTitle="Debug HDInsight - Windows Azure" Title="Debug HDInsight - Windows Azure" metaKeywords="hdinsight, hdinsight administration, hdinsight administration azure" Description="Learn how to debug the Windows Azure HDInsight service." umbracoNaviHide="0" disqusComments="1" writer="bradsev" editor="cgronlun" manager="paulettm" />
+<properties linkid="manage-services-hdinsight-debug-hdinsight" urlDisplayName="HDInsight Administration" pageTitle="Debug HDInsight - Windows Azure" title="Debug HDInsight - Windows Azure" metaKeywords="hdinsight, hdinsight administration, hdinsight administration azure" Description="Learn how to debug the Windows Azure HDInsight service." umbracoNaviHide="0" disqusComments="1" writer="bradsev" editor="cgronlun" manager="paulettm" />
 
 # TODO: Add title of the guide, using sentence casing
 

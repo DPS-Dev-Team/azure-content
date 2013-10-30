@@ -1,4 +1,4 @@
-<properties linkid="dev-nodejs-customdns" urlDisplayName="Custom DNS" pageTitle="Configure a custom domain name (Node.js) - Windows Azure" Title="Configure a custom domain name (Node.js) - Windows Azure" metaKeywords="Node.js DNS Azure, Node.js Azure custom domain" Description="Learn how to expose your Node.js Windows Azure application or data on a custom domain by configuring DNS settings." metaCanonical="http://www.windowsazure.com/en-us/develop/net/common-tasks/custom-dns/" disqusComments="1" umbracoNaviHide="1" />
+<properties linkid="dev-nodejs-customdns" urlDisplayName="Custom DNS" pageTitle="Configure a custom domain name (Node.js) - Windows Azure" title="Configure a custom domain name (Node.js) - Windows Azure" metaKeywords="Node.js DNS Azure, Node.js Azure custom domain" Description="Learn how to expose your Node.js Windows Azure application or data on a custom domain by configuring DNS settings." metaCanonical="http://www.windowsazure.com/en-us/develop/net/common-tasks/custom-dns/" disqusComments="1" umbracoNaviHide="1" />
 
 
 

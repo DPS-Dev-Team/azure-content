@@ -1,4 +1,4 @@
-﻿<properties linkid="develop-media-services-how-to-guides-set-up-computer" urlDisplayName="Set up computer for Media Services" pageTitle="Set up computer for Media Services - Windows Azure" Title="Set up computer for Media Services - Windows Azure" metaKeywords="" Description="Learn about the prerequisites for Media Services using the Media Services SDK for .NET." metaCanonical="" disqusComments="1" umbracoNaviHide="0" writer="migree" />
+﻿<properties linkid="develop-media-services-how-to-guides-set-up-computer" urlDisplayName="Set up computer for Media Services" pageTitle="Set up computer for Media Services - Windows Azure" title="Set up computer for Media Services - Windows Azure" metaKeywords="" Description="Learn about the prerequisites for Media Services using the Media Services SDK for .NET." metaCanonical="" disqusComments="1" umbracoNaviHide="0" writer="migree" />
 
 
 

@@ -1,4 +1,4 @@
-<properties linkid="landing-page" urlDisplayName="Fundamentals" pageTitle="Windows Azure services fundamentals" Title="Windows Azure services fundamentals" metaKeywords="Azure basics, Azure introductory, overview Azure" Description="Find introductory topics about Windows Azure." metaCanonical="" disqusComments="0" umbracoNaviHide="0" />
+<properties linkid="landing-page" urlDisplayName="Fundamentals" pageTitle="Windows Azure services fundamentals" title="Windows Azure services fundamentals" metaKeywords="Azure basics, Azure introductory, overview Azure" Description="Find introductory topics about Windows Azure." metaCanonical="" disqusComments="0" umbracoNaviHide="0" />
 
 
 #Fundamentals

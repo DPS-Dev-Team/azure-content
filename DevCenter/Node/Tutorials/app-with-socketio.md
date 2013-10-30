@@ -1,4 +1,4 @@
-<properties linkid="dev-nodejs-worker-app-with-socketio" urlDisplayName="App Using Socket.IO" pageTitle="Node.js application using Socket.io - Windows Azure tutorial" Title="Node.js application using Socket.io - Windows Azure tutorial" metaKeywords="Azure Node.js socket.io tutorial, Azure Node.js socket.io, Azure Node.js tutorial" Description="A tutorial that demonstrates using socket.io in a node.js application hosted on Windows Azure" metaCanonical="" disqusComments="1" umbracoNaviHide="1" />
+<properties linkid="dev-nodejs-worker-app-with-socketio" urlDisplayName="App Using Socket.IO" pageTitle="Node.js application using Socket.io - Windows Azure tutorial" title="Node.js application using Socket.io - Windows Azure tutorial" metaKeywords="Azure Node.js socket.io tutorial, Azure Node.js socket.io, Azure Node.js tutorial" Description="A tutorial that demonstrates using socket.io in a node.js application hosted on Windows Azure" metaCanonical="" disqusComments="1" umbracoNaviHide="1" />
 
 
 

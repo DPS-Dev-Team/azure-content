@@ -1,4 +1,4 @@
-<properties linkid="develop-net" urlDisplayName="Storage" pageTitle="Storage - Windows Azure service management" Title="Storage - Windows Azure service management" metaKeywords="storage Windows Azure, storage Azure, storage accounts Azure, storage accounts Windows Azure" Description="Find topics about using storage accounts in Windows Azure." metaCanonical="" disqusComments="0" umbracoNaviHide="0" />
+<properties linkid="develop-net" urlDisplayName="Storage" pageTitle="Storage - Windows Azure service management" title="Storage - Windows Azure service management" metaKeywords="storage Windows Azure, storage Azure, storage accounts Azure, storage accounts Windows Azure" Description="Find topics about using storage accounts in Windows Azure." metaCanonical="" disqusComments="0" umbracoNaviHide="0" />
 
 
 #Storage management articles

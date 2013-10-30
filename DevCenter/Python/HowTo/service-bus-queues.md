@@ -1,4 +1,4 @@
-﻿<properties linkid="develop-python-service-bus-queues" urlDisplayName="Service Bus Queues" pageTitle="How to use Service Bus queues (Python) - Windows Azure" Title="How to use Service Bus queues (Python) - Windows Azure" metaKeywords="Azure Service Bus queues, Azure queues, Azure messaging, Azure queues Python" Description="Learn how to use Service Bus queues in Windows Azure. Code samples written in Python." metaCanonical="" disqusComments="1" umbracoNaviHide="0" />
+﻿<properties linkid="develop-python-service-bus-queues" urlDisplayName="Service Bus Queues" pageTitle="How to use Service Bus queues (Python) - Windows Azure" title="How to use Service Bus queues (Python) - Windows Azure" metaKeywords="Azure Service Bus queues, Azure queues, Azure messaging, Azure queues Python" Description="Learn how to use Service Bus queues in Windows Azure. Code samples written in Python." metaCanonical="" disqusComments="1" umbracoNaviHide="0" />
 
 
 # How to Use Service Bus Queues

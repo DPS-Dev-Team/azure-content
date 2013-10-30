@@ -1,4 +1,4 @@
-<properties linkid="develop-mobile-tutorials-get-started-with-data-dotnet" urlDisplayName="Get Started with Data" pageTitle="Get started with data - Windows Azure Mobile Services" Title="Get started with data - Windows Azure Mobile Services" writer="glenga" metaKeywords="" Description="Learn how to get started using data with Windows Azure Mobile Services." metaCanonical="" disqusComments="1" umbracoNaviHide="1" />
+<properties linkid="develop-mobile-tutorials-get-started-with-data-dotnet" urlDisplayName="Get Started with Data" pageTitle="Get started with data - Windows Azure Mobile Services" title="Get started with data - Windows Azure Mobile Services" writer="glenga" metaKeywords="" Description="Learn how to get started using data with Windows Azure Mobile Services." metaCanonical="" disqusComments="1" umbracoNaviHide="1" />
 
 
 # Get started with data in Mobile Services

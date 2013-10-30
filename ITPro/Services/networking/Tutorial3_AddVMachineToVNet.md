@@ -1,4 +1,4 @@
-<properties linkid="manage-services-add-a-vm-to-a-virtual-network" urlDisplayName="Add a VM to virtual network" pageTitle="Add a virtual machine to a virtual network - Windows Azure" Title="Add a virtual machine to a virtual network - Windows Azure" metaKeywords="" Description="A tutorial that teaches you how to create a storage account and virtual machine (VM) that you add to a Windows Azure virtual network." metaCanonical="" disqusComments="1" umbracoNaviHide="0" />
+<properties linkid="manage-services-add-a-vm-to-a-virtual-network" urlDisplayName="Add a VM to virtual network" pageTitle="Add a virtual machine to a virtual network - Windows Azure" title="Add a virtual machine to a virtual network - Windows Azure" metaKeywords="" Description="A tutorial that teaches you how to create a storage account and virtual machine (VM) that you add to a Windows Azure virtual network." metaCanonical="" disqusComments="1" umbracoNaviHide="0" />
 
 
 

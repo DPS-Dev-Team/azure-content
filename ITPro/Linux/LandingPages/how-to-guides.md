@@ -1,4 +1,4 @@
-<properties linkid="manage-linux-how-to-guides" urlDisplayName="How to guides" pageTitle="Windows Azure Linux virtual machine how-to guides" Title="Windows Azure Linux virtual machine how-to guides" metaKeywords="Azure Linux vms, Linux vms, Linux virtual machine" Description="Find topics about Linux virtual machines (VMs) on Windows Azure." metaCanonical="" disqusComments="0" umbracoNaviHide="0" />
+<properties linkid="manage-linux-how-to-guides" urlDisplayName="How to guides" pageTitle="Windows Azure Linux virtual machine how-to guides" title="Windows Azure Linux virtual machine how-to guides" metaKeywords="Azure Linux vms, Linux vms, Linux virtual machine" Description="Find topics about Linux virtual machines (VMs) on Windows Azure." metaCanonical="" disqusComments="0" umbracoNaviHide="0" />
 
 
 

@@ -1,4 +1,4 @@
-<properties linkid="dev-java-compute-load" urlDisplayName="TSP on Virtual Machine" pageTitle="Compute-intensive Java application on a VM - Windows Azure" Title="Compute-intensive Java application on a VM - Windows Azure" metaKeywords="Azure virtual machine Java, Azure Java app, Azure Java application" Description="Learn how to create a Windows Azure virtual machine that runs a compute-intensive Java application that can be monitored by another Java application." metaCanonical="" disqusComments="1" umbracoNaviHide="0" writer="waltpo" />
+<properties linkid="dev-java-compute-load" urlDisplayName="TSP on Virtual Machine" pageTitle="Compute-intensive Java application on a VM - Windows Azure" title="Compute-intensive Java application on a VM - Windows Azure" metaKeywords="Azure virtual machine Java, Azure Java app, Azure Java application" Description="Learn how to create a Windows Azure virtual machine that runs a compute-intensive Java application that can be monitored by another Java application." metaCanonical="" disqusComments="1" umbracoNaviHide="0" writer="waltpo" />
 
 
 

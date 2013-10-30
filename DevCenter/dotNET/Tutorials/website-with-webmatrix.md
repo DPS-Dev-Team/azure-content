@@ -1,4 +1,4 @@
-<properties linkid="develop-dotnet-website-with-webmatrix" urlDisplayName="Web Site with WebMatrix" pageTitle=".NET web site with WebMatrix - Windows Azure tutorials" Title=".NET web site with WebMatrix - Windows Azure tutorials" metaKeywords="WebMatrix Windows Azure, WebMatrix Azure, Azure web site WebMatrix, Azure web site WebMatrix, Web Matrix Azure, WebMatrix Azure" Description="Learn how to develop and deploy a Windows Azure web site with WebMatrix." metaCanonical="" disqusComments="1" umbracoNaviHide="1" />
+<properties linkid="develop-dotnet-website-with-webmatrix" urlDisplayName="Web Site with WebMatrix" pageTitle=".NET web site with WebMatrix - Windows Azure tutorials" title=".NET web site with WebMatrix - Windows Azure tutorials" metaKeywords="WebMatrix Windows Azure, WebMatrix Azure, Azure web site WebMatrix, Azure web site WebMatrix, Web Matrix Azure, WebMatrix Azure" Description="Learn how to develop and deploy a Windows Azure web site with WebMatrix." metaCanonical="" disqusComments="1" umbracoNaviHide="1" />
 
 
 

@@ -1,4 +1,4 @@
-<properties linkid="manage-windows-how-to-guides-detach-a-disk" urlDisplayName="Detach a Disk" pageTitle="Detach a disk from a Windows Virtual Machine in Windows Azure" Title="Detach a disk from a Windows Virtual Machine in Windows Azure" metaKeywords="" Description="Learn how to detach a disk from a Windows Virtual Machine in Windows Azure." metaCanonical="" disqusComments="1" umbracoNaviHide="0" />
+<properties linkid="manage-windows-how-to-guides-detach-a-disk" urlDisplayName="Detach a Disk" pageTitle="Detach a disk from a Windows Virtual Machine in Windows Azure" title="Detach a disk from a Windows Virtual Machine in Windows Azure" metaKeywords="" Description="Learn how to detach a disk from a Windows Virtual Machine in Windows Azure." metaCanonical="" disqusComments="1" umbracoNaviHide="0" />
 
 
 

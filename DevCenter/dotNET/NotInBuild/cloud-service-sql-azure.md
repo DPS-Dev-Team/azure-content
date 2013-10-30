@@ -1,4 +1,4 @@
-﻿<properties linkid="develop-dotnet-cloud-service-with-sql-database" urlDisplayName="Cloud Service with SQL Database" pageTitle=".NET cloud service with SQL Database - Windows Azure tutorial" Title=".NET cloud service with SQL Database - Windows Azure tutorial" metaKeywords="Azure ASP.NET web site, ASP.NET SQL database, SQL database cloud services" Description="Create an ASP.NET web site with a SQL database and deploy it to Windows Azure for hosting using Windows Azure Cloud Services. " metaCanonical="" disqusComments="1" umbracoNaviHide="1" />
+﻿<properties linkid="develop-dotnet-cloud-service-with-sql-database" urlDisplayName="Cloud Service with SQL Database" pageTitle=".NET cloud service with SQL Database - Windows Azure tutorial" title=".NET cloud service with SQL Database - Windows Azure tutorial" metaKeywords="Azure ASP.NET web site, ASP.NET SQL database, SQL database cloud services" Description="Create an ASP.NET web site with a SQL database and deploy it to Windows Azure for hosting using Windows Azure Cloud Services. " metaCanonical="" disqusComments="1" umbracoNaviHide="1" />
 
 
 

@@ -1,4 +1,4 @@
-<properties linkid="dev-nodejs-customdns" urlDisplayName="Custom DNS" pageTitle="Configuring a custom domain name (PHP) - Windows Azure" Title="Configuring a custom domain name (PHP) - Windows Azure" metaKeywords="PHP DNS Azure, PHP Azure custom domain" Description="Learn how to expose your PHP Windows Azure application or data on a custom domain by configuring DNS settings." metaCanonical="http://www.windowsazure.com/en-us/develop/net/common-tasks/custom-dns/" disqusComments="1" umbracoNaviHide="1" />
+<properties linkid="dev-nodejs-customdns" urlDisplayName="Custom DNS" pageTitle="Configuring a custom domain name (PHP) - Windows Azure" title="Configuring a custom domain name (PHP) - Windows Azure" metaKeywords="PHP DNS Azure, PHP Azure custom domain" Description="Learn how to expose your PHP Windows Azure application or data on a custom domain by configuring DNS settings." metaCanonical="http://www.windowsazure.com/en-us/develop/net/common-tasks/custom-dns/" disqusComments="1" umbracoNaviHide="1" />
 
 
 

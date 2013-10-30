@@ -1,4 +1,4 @@
-﻿<properties linkid="develop-net-how-to-twilio-phone-call" urlDisplayName="Twilio Phone Call" pageTitle="How to make a phone call from Twilio (.NET) - Windows Azure" Title="How to make a phone call from Twilio (.NET) - Windows Azure" metaKeywords="Windows Azure .NET Twilio, Windows Azure Twilio, Azure phone calls, Azure twilio, Windows Azure SMS, Azure SMS, Windows Azure voice calls, azure voice calls, Windows Azure text messages, Azure text messages, ASP.NET twilio Azure" Description="Learn how to make a phone call and send a SMS message with the Twilio API service on Windows Azure. Code samples written in .NET." metaCanonical="" disqusComments="1" umbracoNaviHide="1" />
+﻿<properties linkid="develop-net-how-to-twilio-phone-call" urlDisplayName="Twilio Phone Call" pageTitle="How to make a phone call from Twilio (.NET) - Windows Azure" title="How to make a phone call from Twilio (.NET) - Windows Azure" metaKeywords="Windows Azure .NET Twilio, Windows Azure Twilio, Azure phone calls, Azure twilio, Windows Azure SMS, Azure SMS, Windows Azure voice calls, azure voice calls, Windows Azure text messages, Azure text messages, ASP.NET twilio Azure" Description="Learn how to make a phone call and send a SMS message with the Twilio API service on Windows Azure. Code samples written in .NET." metaCanonical="" disqusComments="1" umbracoNaviHide="1" />
 
 
 
@@ -43,7 +43,7 @@ You should be familiar with creating a basic web role on Windows Azure.
 
 The following code shows how to create a web form to retrieve user data for making a call. In this example, an ASP.NET web role named **TwilioCloud** is created.
 
-    <%@ Page Title="Home Page" Language="C#" MasterPageFile="~/Site.master"
+    <%@ Page title="Home Page" Language="C#" MasterPageFile="~/Site.master"
         AutoEventWireup="true" CodeBehind="Default.aspx.cs"
         Inherits="WebRole1._Default" %>
 
