@@ -1,4 +1,4 @@
-<properties linkid="devnav-python-commontasks" urlDisplayName="Common Tasks" pageTitle="Windows Azure Python common tasks" metaKeywords="Azure Python" metaDescription="Find topics about common tasks when using Python with Windows Azure." metaCanonical="" disqusComments="0" umbracoNaviHide="0" />
+<properties linkid="devnav-python-commontasks" urlDisplayName="Common Tasks" pageTitle="Windows Azure Python common tasks" Title="Windows Azure Python common tasks" metaKeywords="Azure Python" Description="Find topics about common tasks when using Python with Windows Azure." metaCanonical="" disqusComments="0" umbracoNaviHide="0" />
 
 
 # Python Developer Center - Common tasks

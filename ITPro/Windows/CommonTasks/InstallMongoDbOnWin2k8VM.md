@@ -1,4 +1,4 @@
-<properties linkid="manage-windows-common-task-mongodb-vm" urlDisplayName="Install MongoDB" pageTitle="Install MongoDB on a Windows Server virtual machine" metaKeywords="Azure vm, Azure MongoDB, Azure remote desktop" metaDescription="Learn how to create a Windows Azure virtual machine with Windows Server 2008 R2, and then use Remote Desktop to install MongoDB." metaCanonical="" disqusComments="1" umbracoNaviHide="1" writer="kathydav" editor="tysonn" manager="jeffreyg" />
+<properties linkid="manage-windows-common-task-mongodb-vm" urlDisplayName="Install MongoDB" pageTitle="Install MongoDB on a Windows Server virtual machine" Title="Install MongoDB on a Windows Server virtual machine" metaKeywords="Azure vm, Azure MongoDB, Azure remote desktop" Description="Learn how to create a Windows Azure virtual machine with Windows Server 2008 R2, and then use Remote Desktop to install MongoDB." metaCanonical="" disqusComments="1" umbracoNaviHide="1" writer="kathydav" editor="tysonn" manager="jeffreyg" />
 
 
 #Install MongoDB on a virtual machine running Windows Server in Windows Azure

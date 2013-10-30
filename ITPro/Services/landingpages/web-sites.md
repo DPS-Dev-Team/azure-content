@@ -1,4 +1,4 @@
-<properties linkid="develop-net" urlDisplayName="Web Sites" pageTitle="Web Sites - Windows Azure service management" metaKeywords="Windows Azure web sites, Windows Azure website, Azure web site, Azure website" metaDescription="Find how to topics about web sites hosted in Windows Azure." metaCanonical="" disqusComments="0" umbracoNaviHide="0" />
+<properties linkid="develop-net" urlDisplayName="Web Sites" pageTitle="Web Sites - Windows Azure service management" Title="Web Sites - Windows Azure service management" metaKeywords="Windows Azure web sites, Windows Azure website, Azure web site, Azure website" Description="Find how to topics about web sites hosted in Windows Azure." metaCanonical="" disqusComments="0" umbracoNaviHide="0" />
 
 
 <div class="dev-center"><h1>Web Sites</h1>

@@ -1,4 +1,4 @@
-<properties linkid="manage-windows-best-practices" urlDisplayName="Best practices" pageTitle="Windows Azure Windows virtual machine best practices" metaKeywords="Azure best practices" metaDescription="Find topics about best practices in Windows Azure." metaCanonical="" disqusComments="0" umbracoNaviHide="0" />
+<properties linkid="manage-windows-best-practices" urlDisplayName="Best practices" pageTitle="Windows Azure Windows virtual machine best practices" Title="Windows Azure Windows virtual machine best practices" metaKeywords="Azure best practices" Description="Find topics about best practices in Windows Azure." metaCanonical="" disqusComments="0" umbracoNaviHide="0" />
 
 
 # Best practices

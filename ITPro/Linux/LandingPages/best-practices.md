@@ -1,4 +1,4 @@
-<properties linkid="landing-page" urlDisplayName="Best practices" pageTitle="Windows Azure Linux virtual machine best practices" metaKeywords="Windows Azure best practices, Azure best practices" metaDescription="Find topics about best practices in Windows Azure." metaCanonical="http://www.windowsazure.com/en-us/manage/windows/best-practices/" disqusComments="0" umbracoNaviHide="0" />
+<properties linkid="landing-page" urlDisplayName="Best practices" pageTitle="Windows Azure Linux virtual machine best practices" Title="Windows Azure Linux virtual machine best practices" metaKeywords="Windows Azure best practices, Azure best practices" Description="Find topics about best practices in Windows Azure." metaCanonical="http://www.windowsazure.com/en-us/manage/windows/best-practices/" disqusComments="0" umbracoNaviHide="0" />
 
 
 # Best practices

@@ -1,4 +1,4 @@
-<properties linkid="develop-net" urlDisplayName="Services" pageTitle="Services in Windows Azure | Manage" metaKeywords="" metaDescription="Find information about Windows Azure services and management." metaCanonical="" disqusComments="0" umbracoNaviHide="0" />
+<properties linkid="develop-net" urlDisplayName="Services" pageTitle="Services in Windows Azure | Manage" Title="Services in Windows Azure | Manage" metaKeywords="" Description="Find information about Windows Azure services and management." metaCanonical="" disqusComments="0" umbracoNaviHide="0" />
 
 
 <div class="dev-articles"><h1>Services</h1>

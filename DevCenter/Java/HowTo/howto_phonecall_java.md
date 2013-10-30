@@ -1,4 +1,4 @@
-﻿<properties linkid="develop-java-how-to-twilio-phone-call" urlDisplayName="How to Make a Phone Call from Twilio in Java" pageTitle="How to Make a phone call from Twilio (Java) - Windows Azure" metaKeywords="Azure Twilio call, Twilio call website, Azure Twilio Java" metaDescription="Learn how to make a phone call from a web page using Twilio in a Java application on Windows Azure." metaCanonical="" disqusComments="1" umbracoNaviHide="1" />
+﻿<properties linkid="develop-java-how-to-twilio-phone-call" urlDisplayName="How to Make a Phone Call from Twilio in Java" pageTitle="How to Make a phone call from Twilio (Java) - Windows Azure" Title="How to Make a phone call from Twilio (Java) - Windows Azure" metaKeywords="Azure Twilio call, Twilio call website, Azure Twilio Java" Description="Learn how to make a phone call from a web page using Twilio in a Java application on Windows Azure." metaCanonical="" disqusComments="1" umbracoNaviHide="1" />
 
 
 

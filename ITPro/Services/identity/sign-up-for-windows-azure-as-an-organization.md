@@ -1,4 +1,4 @@
-<properties umbracoNaviHide="0" pageTitle="Sign up for Windows Azure as an organization" metaKeywords="Windows Azure Active Directory, Windows Azure AD, organizational account" metaDescription="Learn how to create a Windows Azure AD tenant in Windows Azure." linkid="documentation-services-identity-sign-up-for-windows-azure-as-an-organization" urlDisplayName="Sign up as an organization" headerExpose="" footerExpose="" disqusComments="0" />
+<properties umbracoNaviHide="0" pageTitle="Sign up for Windows Azure as an organization" Title="Sign up for Windows Azure as an organization" metaKeywords="Windows Azure Active Directory, Windows Azure AD, organizational account" Description="Learn how to create a Windows Azure AD tenant in Windows Azure." linkid="documentation-services-identity-sign-up-for-windows-azure-as-an-organization" urlDisplayName="Sign up as an organization" headerExpose="" footerExpose="" disqusComments="0" />
 
 
 <h1 id="signup">Sign up for Windows Azure as an organization</h1>

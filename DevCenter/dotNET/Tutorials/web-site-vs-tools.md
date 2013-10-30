@@ -1,4 +1,4 @@
-<properties linkid="develop-net-tutorials-troubleshooting-web-sites-in-visual-studio" urlDisplayName="Troubleshooting Windows Azure Web Sites in Visual Studio" pageTitle="Troubleshooting Windows Azure Web Sites in Visual Studio" metaKeywords="" metaDescription="This tutorial shows how to use Visual Studio tools for managing and debugging Windows Azure Web Sites." metaCanonical="" disqusComments="1" umbracoNaviHide="1" writer="tdykstra" editor="mollybos" manager="wpickett" />
+<properties linkid="develop-net-tutorials-troubleshooting-web-sites-in-visual-studio" urlDisplayName="Troubleshooting Windows Azure Web Sites in Visual Studio" pageTitle="Troubleshooting Windows Azure Web Sites in Visual Studio" Title="Troubleshooting Windows Azure Web Sites in Visual Studio" metaKeywords="" Description="This tutorial shows how to use Visual Studio tools for managing and debugging Windows Azure Web Sites." metaCanonical="" disqusComments="1" umbracoNaviHide="1" writer="tdykstra" editor="mollybos" manager="wpickett" />
 
 # Troubleshooting Windows Azure Web Sites in Visual Studio
 

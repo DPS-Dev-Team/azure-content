@@ -1,4 +1,4 @@
-<properties linkid="manage-services-web-sites-output-caching" urlDisplayName="Page Output Caching" pageTitle="How to use the Cache service for output caching" metaKeywords="" metaDescription="Learn how to use the Windows Azure Cache service for output caching with a Windows Azure web site." metaCanonical="" disqusComments="1" umbracoNaviHide="1" writer="jroth" />
+<properties linkid="manage-services-web-sites-output-caching" urlDisplayName="Page Output Caching" pageTitle="How to use the Cache service for output caching" Title="How to use the Cache service for output caching" metaKeywords="" Description="Learn how to use the Windows Azure Cache service for output caching with a Windows Azure web site." metaCanonical="" disqusComments="1" umbracoNaviHide="1" writer="jroth" />
 
 # How to Use ASP.NET Web Forms Output Caching with Windows Azure Web Sites
 

@@ -1,4 +1,4 @@
-<properties linkid="devnav-other-commontasks" urlDisplayName="Common Tasks" pageTitle="Windows Azure other common tasks" metaKeywords="Azure basic tasks" metaDescription="Find topics about common tasks when using Windows Azure." metaCanonical="" disqusComments="0" umbracoNaviHide="0" />
+<properties linkid="devnav-other-commontasks" urlDisplayName="Common Tasks" pageTitle="Windows Azure other common tasks" Title="Windows Azure other common tasks" metaKeywords="Azure basic tasks" Description="Find topics about common tasks when using Windows Azure." metaCanonical="" disqusComments="0" umbracoNaviHide="0" />
 
 
 #Developer Center - Common tasks

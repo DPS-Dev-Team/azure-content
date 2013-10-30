@@ -1,4 +1,4 @@
-<properties linkid="service-bus-monitor-messaging-entitites" urlDisplayName="Traffic Manager" pageTitle="Monitor Service Bus Messaging Entities - Windows Azure" metaKeywords="" metaDescription="Learn how to monitor your Service Bus entities using the Windows Azure Management Portal." metaCanonical="" disqusComments="1" umbracoNaviHide="1" />
+<properties linkid="service-bus-monitor-messaging-entitites" urlDisplayName="Traffic Manager" pageTitle="Monitor Service Bus Messaging Entities - Windows Azure" Title="Monitor Service Bus Messaging Entities - Windows Azure" metaKeywords="" Description="Learn how to monitor your Service Bus entities using the Windows Azure Management Portal." metaCanonical="" disqusComments="1" umbracoNaviHide="1" />
 
 
 # How to Monitor Service Bus Messaging Entities

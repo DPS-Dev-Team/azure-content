@@ -1,4 +1,4 @@
-<properties linkid="dev-nodejs-how-to-service-bus-queues" urlDisplayName="Service Bus Queues" pageTitle="How to use Service Bus queues (Node.js) - Windows Azure" metaKeywords="Azure Service Bus queues, Azure queues, Azure messaging, Azure queues Node.js" metaDescription="Learn how to use Service Bus queues in Windows Azure. Code samples written in Node.js." metaCanonical="" disqusComments="1" umbracoNaviHide="0" />
+<properties linkid="dev-nodejs-how-to-service-bus-queues" urlDisplayName="Service Bus Queues" pageTitle="How to use Service Bus queues (Node.js) - Windows Azure" Title="How to use Service Bus queues (Node.js) - Windows Azure" metaKeywords="Azure Service Bus queues, Azure queues, Azure messaging, Azure queues Node.js" Description="Learn how to use Service Bus queues in Windows Azure. Code samples written in Node.js." metaCanonical="" disqusComments="1" umbracoNaviHide="0" />
 
 
 

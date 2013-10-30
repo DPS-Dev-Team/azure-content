@@ -1,4 +1,4 @@
-<properties linkid="devnav-nodejs-tutorials" urlDisplayName="Tutorials" pageTitle="Windows Azure Node.js tutorials" metaKeywords="Node.js tutorials Windows Azure, Node.js tutorials Azure, Azure Node.js tutorials, Azure Node.js" metaDescription="Find tutorials about using Node.js with Windows Azure." metaCanonical="" disqusComments="0" umbracoNaviHide="0" />
+<properties linkid="devnav-nodejs-tutorials" urlDisplayName="Tutorials" pageTitle="Windows Azure Node.js tutorials" Title="Windows Azure Node.js tutorials" metaKeywords="Node.js tutorials Windows Azure, Node.js tutorials Azure, Azure Node.js tutorials, Azure Node.js" Description="Find tutorials about using Node.js with Windows Azure." metaCanonical="" disqusComments="0" umbracoNaviHide="0" />
 
 
 #Node.js Developer Center - Tutorials

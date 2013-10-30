@@ -1,4 +1,4 @@
-﻿<properties umbracoNaviHide="0" pageTitle="How To Configure Cloud Services" metaKeywords="Windows Azure cloud services, cloud service, configure cloud service" metaDescription="Learn how to configure Windows Azure cloud services." linkid="manage-windows-how-to-guide-storage-accounts" urlDisplayName="How to: storage accounts" headerExpose="" footerExpose="" disqusComments="1" />
+﻿<properties umbracoNaviHide="0" pageTitle="How To Configure Cloud Services" Title="How To Configure Cloud Services" metaKeywords="Windows Azure cloud services, cloud service, configure cloud service" Description="Learn how to configure Windows Azure cloud services." linkid="manage-windows-how-to-guide-storage-accounts" urlDisplayName="How to: storage accounts" headerExpose="" footerExpose="" disqusComments="1" />
 
 
 

@@ -1,4 +1,4 @@
-﻿<properties linkid="develop-mobile-tutorials-get-started-with-notification-hubs-dotnet" writer="glenga" urlDisplayName="Get Started with Notification Hubs" pageTitle="Get started with Notification Hubs - Mobile Services" metaKeywords="" metaDescription="Learn how to use Notification Hubs with Windows Azure Mobile Services." metaCanonical="" disqusComments="1" umbracoNaviHide="1" />
+﻿<properties linkid="develop-mobile-tutorials-get-started-with-notification-hubs-dotnet" writer="glenga" urlDisplayName="Get Started with Notification Hubs" pageTitle="Get started with Notification Hubs - Mobile Services" Title="Get started with Notification Hubs - Mobile Services" metaKeywords="" Description="Learn how to use Notification Hubs with Windows Azure Mobile Services." metaCanonical="" disqusComments="1" umbracoNaviHide="1" />
 
 
 

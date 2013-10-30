@@ -1,4 +1,4 @@
-<properties linkid="manage-linux-howto-linux-agent" urlDisplayName="Prepare a distribution" pageTitle="use Windows Azure PowerShell to create and manage a service" metaCanonical="" disqusComments="1" umbracoNaviHide="1"  writer="mollybos" editor="mollybos" manager="jeffreyg"/>
+<properties linkid="manage-linux-howto-linux-agent" urlDisplayName="Prepare a distribution" pageTitle="use Windows Azure PowerShell to create and manage a service" Title="use Windows Azure PowerShell to create and manage a service" metaCanonical="" disqusComments="1" umbracoNaviHide="1"  writer="mollybos" editor="mollybos" manager="jeffreyg"/>
 
 # How to use Windows Azure PowerShell to create and manage a service
 

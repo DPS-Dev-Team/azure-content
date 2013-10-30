@@ -1,4 +1,4 @@
-<properties linkid="develop-mobile-tutorials-get-started-android" urlDisplayName="Get Started (Android)" pageTitle="Get Started with Windows Azure Mobile Services for Android" metaKeywords="Windows Azure Android application, mobile service Android, getting started Azure Android" writer="glenga" metaDescription="Learn how to use Windows Azure Mobile Services with your Android app." metaCanonical="" disqusComments="1" umbracoNaviHide="1" />
+<properties linkid="develop-mobile-tutorials-get-started-android" urlDisplayName="Get Started (Android)" pageTitle="Get Started with Windows Azure Mobile Services for Android" Title="Get Started with Windows Azure Mobile Services for Android" metaKeywords="Windows Azure Android application, mobile service Android, getting started Azure Android" writer="glenga" Description="Learn how to use Windows Azure Mobile Services with your Android app." metaCanonical="" disqusComments="1" umbracoNaviHide="1" />
 
 
 

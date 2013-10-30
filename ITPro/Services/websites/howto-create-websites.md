@@ -1,4 +1,4 @@
-﻿<properties linkid="manage-services-how-to-create-websites" urlDisplayName="How to create" pageTitle="How to create web sites - Windows Azure service management" metaKeywords="Azure creating web site, Azure deleting web site" metaDescription="Learn how to create a web site using the Windows Azure Management Portal." metaCanonical="" disqusComments="1" umbracoNaviHide="0" writer="tysonn" />
+﻿<properties linkid="manage-services-how-to-create-websites" urlDisplayName="How to create" pageTitle="How to create web sites - Windows Azure service management" Title="How to create web sites - Windows Azure service management" metaKeywords="Azure creating web site, Azure deleting web site" Description="Learn how to create a web site using the Windows Azure Management Portal." metaCanonical="" disqusComments="1" umbracoNaviHide="0" writer="tysonn" />
 
 
 

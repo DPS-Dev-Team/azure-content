@@ -1,4 +1,4 @@
-<properties linkid="develop-net" urlDisplayName="Mobile" pageTitle="Mobile - Windows Azure .NET Scenarios" metaKeywords="Azure ideas for web applications, Azure optimize mobile, Azure mobile devices, Azure mobile apps" metaDescription="Find scenarios about creating web apps hosted on Windows Azure that are optimized for mobile devices." metaCanonical="" disqusComments="0" umbracoNaviHide="0" />
+<properties linkid="develop-net" urlDisplayName="Mobile" pageTitle="Mobile - Windows Azure .NET Scenarios" Title="Mobile - Windows Azure .NET Scenarios" metaKeywords="Azure ideas for web applications, Azure optimize mobile, Azure mobile devices, Azure mobile apps" Description="Find scenarios about creating web apps hosted on Windows Azure that are optimized for mobile devices." metaCanonical="" disqusComments="0" umbracoNaviHide="0" />
 
 
 <h1>Mobile Scenarios</h1><p>Windows Azure provides a flexible platform for hosting and scaling apps for mobile devices. The resources below show how you can easily create web applications hosted on Windows Azure that are optimized for rendering on mobile devices.</p> 

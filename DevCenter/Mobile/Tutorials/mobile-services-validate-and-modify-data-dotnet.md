@@ -1,4 +1,4 @@
-<properties linkid="develop-mobile-tutorials-validate-modify-and-augment-data-dotnet" writer="glenga" urlDisplayName="Validate and Modify Data" pageTitle="Using server scripts to validate and modify data - Mobile Services" metaKeywords="" metaDescription="Learn how to use server scripts to validate, modify, and augment data with Windows Azure Mobile Services." metaCanonical="" disqusComments="1" umbracoNaviHide="1" />
+<properties linkid="develop-mobile-tutorials-validate-modify-and-augment-data-dotnet" writer="glenga" urlDisplayName="Validate and Modify Data" pageTitle="Using server scripts to validate and modify data - Mobile Services" Title="Using server scripts to validate and modify data - Mobile Services" metaKeywords="" Description="Learn how to use server scripts to validate, modify, and augment data with Windows Azure Mobile Services." metaCanonical="" disqusComments="1" umbracoNaviHide="1" />
 
 
 

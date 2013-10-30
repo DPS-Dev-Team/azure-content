@@ -1,4 +1,4 @@
-<properties linkid="manage-windows-howto-custom-create-vm" urlDisplayName="Custom create a VM" pageTitle="Custom create a virtual machine in Windows Azure" metaKeywords="Azure creating vm" metaDescription="Learn how to create a Windows Azure virtual machine." metaCanonical="" disqusComments="1" umbracoNaviHide="0" />
+<properties linkid="manage-windows-howto-custom-create-vm" urlDisplayName="Custom create a VM" pageTitle="Custom create a virtual machine in Windows Azure" Title="Custom create a virtual machine in Windows Azure" metaKeywords="Azure creating vm" Description="Learn how to create a Windows Azure virtual machine." metaCanonical="" disqusComments="1" umbracoNaviHide="0" />
 
 
 

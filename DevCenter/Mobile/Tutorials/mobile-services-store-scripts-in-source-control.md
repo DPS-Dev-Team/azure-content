@@ -1,4 +1,4 @@
-<properties linkid="mobile-services-store-scripts-in-source-control" urlDisplayName="Store server scripts in source control" pageTitle="Store server scripts in source control - Windows Azure Mobile Services" metaKeywords=""  writer="glenga" metaDescription="Learn how to store your server script files and modules in a local Git repo on your computer." metaCanonical="" disqusComments="1" umbracoNaviHide="0" />
+<properties linkid="mobile-services-store-scripts-in-source-control" urlDisplayName="Store server scripts in source control" pageTitle="Store server scripts in source control - Windows Azure Mobile Services" Title="Store server scripts in source control - Windows Azure Mobile Services" metaKeywords=""  writer="glenga" Description="Learn how to store your server script files and modules in a local Git repo on your computer." metaCanonical="" disqusComments="1" umbracoNaviHide="0" />
 
 # Store server scripts in source control
 

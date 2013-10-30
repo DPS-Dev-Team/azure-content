@@ -1,4 +1,4 @@
-<properties linkid="develop-net" urlDisplayName="Networking" pageTitle="Networking - Windows Azure service management" metaKeywords="Azure vnets, vnets" metaDescription="Find topics about virtual networks in Windows Azure." metaCanonical="" disqusComments="0" umbracoNaviHide="0" />
+<properties linkid="develop-net" urlDisplayName="Networking" pageTitle="Networking - Windows Azure service management" Title="Networking - Windows Azure service management" metaKeywords="Azure vnets, vnets" Description="Find topics about virtual networks in Windows Azure." metaCanonical="" disqusComments="0" umbracoNaviHide="0" />
 
 
 #Networking articles

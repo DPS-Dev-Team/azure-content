@@ -1,4 +1,4 @@
-<properties linkid="develop-net" urlDisplayName="SQL Databases" pageTitle="SQL Databases - Windows Azure service management" metaKeywords="SQL databases Windows Auzure, SQL databases Azure, SQL Azure, SQL Server Azure" metaDescription="Find topics about using SQL Databases in Windows Azure." metaCanonical="" disqusComments="0" umbracoNaviHide="0" />
+<properties linkid="develop-net" urlDisplayName="SQL Databases" pageTitle="SQL Databases - Windows Azure service management" Title="SQL Databases - Windows Azure service management" metaKeywords="SQL databases Windows Auzure, SQL databases Azure, SQL Azure, SQL Server Azure" Description="Find topics about using SQL Databases in Windows Azure." metaCanonical="" disqusComments="0" umbracoNaviHide="0" />
 
 
 # SQL Database articles

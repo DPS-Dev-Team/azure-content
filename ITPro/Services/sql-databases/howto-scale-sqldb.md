@@ -1,4 +1,4 @@
-﻿<properties linkid="manage-services-how-to-scale-a-sqldb" urlDisplayName="How to scale" pageTitle="How to scale a SQL Database - Windows Azure" metaKeywords="" metaDescription="Learn about options for scaling your SQL Database in Windows Azure." metaCanonical="" disqusComments="1" umbracoNaviHide="0" />
+﻿<properties linkid="manage-services-how-to-scale-a-sqldb" urlDisplayName="How to scale" pageTitle="How to scale a SQL Database - Windows Azure" Title="How to scale a SQL Database - Windows Azure" metaKeywords="" Description="Learn about options for scaling your SQL Database in Windows Azure." metaCanonical="" disqusComments="1" umbracoNaviHide="0" />
 
 
 

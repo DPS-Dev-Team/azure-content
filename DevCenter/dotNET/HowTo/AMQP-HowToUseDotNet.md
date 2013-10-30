@@ -1,4 +1,4 @@
-﻿<properties linkid="develop-net-how-to-guides-service-bus-amqp" urlDisplayName="Service Bus AMQP" pageTitle="How to use AMQP 1.0 with the .NET Service Bus API - Windows Azure" metaKeywords="" metaDescription="Learn how to use Advanced Message Queuing Protocol (AMQP) 1.0 with the Windows Azure .NET Service Bus API." metaCanonical="" disqusComments="1" umbracoNaviHide="1" writer="sethm" editor="mattshel" manager="dwrede" />
+﻿<properties linkid="develop-net-how-to-guides-service-bus-amqp" urlDisplayName="Service Bus AMQP" pageTitle="How to use AMQP 1.0 with the .NET Service Bus API - Windows Azure" Title="How to use AMQP 1.0 with the .NET Service Bus API - Windows Azure" metaKeywords="" Description="Learn how to use Advanced Message Queuing Protocol (AMQP) 1.0 with the Windows Azure .NET Service Bus API." metaCanonical="" disqusComments="1" umbracoNaviHide="1" writer="sethm" editor="mattshel" manager="dwrede" />
 
 
 

@@ -1,4 +1,4 @@
-<properties linkid="develop-mobile-tutorials-validate-modify-and-augment-data-wp8" writer="glenga" urlDisplayName="Validate Data" pageTitle="Use server scripts to validate data (Windows Phone)" metaKeywords="" metaDescription="Learn how to validate and modify data sent using server scripts from your Windows Phone 8 app." metaCanonical="" disqusComments="1" umbracoNaviHide="1" />
+<properties linkid="develop-mobile-tutorials-validate-modify-and-augment-data-wp8" writer="glenga" urlDisplayName="Validate Data" pageTitle="Use server scripts to validate data (Windows Phone)" Title="Use server scripts to validate data (Windows Phone)" metaKeywords="" Description="Learn how to validate and modify data sent using server scripts from your Windows Phone 8 app." metaCanonical="" disqusComments="1" umbracoNaviHide="1" />
 
 
 

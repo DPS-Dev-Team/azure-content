@@ -1,4 +1,4 @@
-<properties linkid="services-linux-user-names" urlDisplayName="User Names in Linux" pageTitle="Selecting User Names for Linux on Windows Azure" metaKeywords="" metaDescription="Learn how to select user names for a Linux virtual machine in Windows Azure." metaCanonical="" disqusComments="1" umbracoNaviHide="0" />
+<properties linkid="services-linux-user-names" urlDisplayName="User Names in Linux" pageTitle="Selecting User Names for Linux on Windows Azure" Title="Selecting User Names for Linux on Windows Azure" metaKeywords="" Description="Learn how to select user names for a Linux virtual machine in Windows Azure." metaCanonical="" disqusComments="1" umbracoNaviHide="0" />
 
 
 

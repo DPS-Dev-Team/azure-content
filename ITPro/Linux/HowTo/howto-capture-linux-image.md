@@ -1,4 +1,4 @@
-﻿<properties linkid="manage-linux-howto-capture-an-image" urlDisplayName="Capture an image" pageTitle="Capture an image of a virtual machine running Linux" metaKeywords="Azure Linux vm, Linux vm" metaDescription="Learn how to capture an image of a Windows Azure virtual machine (VM) running Linux. " metaCanonical="" disqusComments="1" umbracoNaviHide="0" writer="kathydav" editor="tysonn" manager="jeffreyg" />
+﻿<properties linkid="manage-linux-howto-capture-an-image" urlDisplayName="Capture an image" pageTitle="Capture an image of a virtual machine running Linux" Title="Capture an image of a virtual machine running Linux" metaKeywords="Azure Linux vm, Linux vm" Description="Learn how to capture an image of a Windows Azure virtual machine (VM) running Linux. " metaCanonical="" disqusComments="1" umbracoNaviHide="0" writer="kathydav" editor="tysonn" manager="jeffreyg" />
 
 
 

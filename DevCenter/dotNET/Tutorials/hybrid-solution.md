@@ -1,4 +1,4 @@
-<properties linkid="dev-net-tutorials-hybrid-solution" urlDisplayName="Hybrid Application" pageTitle="Hybrid On-Premises/ Cloud Application (.NET) - Windows Azure" metaKeywords="Azure Service Bus tutorial  hybrid .NET" metaDescription="Learn how to create a .NET On-Premises/Cloud Hybrid Application Using the Windows Azure Service Bus Relay." metaCanonical="" disqusComments="1" umbracoNaviHide="1" writer="sethm" editor="mattshel" manager="dwrede"/>
+<properties linkid="dev-net-tutorials-hybrid-solution" urlDisplayName="Hybrid Application" pageTitle="Hybrid On-Premises/ Cloud Application (.NET) - Windows Azure" Title="Hybrid On-Premises/ Cloud Application (.NET) - Windows Azure" metaKeywords="Azure Service Bus tutorial  hybrid .NET" Description="Learn how to create a .NET On-Premises/Cloud Hybrid Application Using the Windows Azure Service Bus Relay." metaCanonical="" disqusComments="1" umbracoNaviHide="1" writer="sethm" editor="mattshel" manager="dwrede"/>
 
 
 

@@ -1,4 +1,4 @@
-<properties linkid="dev-net-how-to-table-services" urlDisplayName="Table Service" pageTitle="How to use table storage (.NET) - Windows Azure feature guide" metaKeywords="Windows Azure table storage service, Azure table service .NET, table storage .NET, table service C#, table storage C#" metaDescription="Learn how to use the table storage service in Windows Azure. Code samples are written in C# code and use the .NET API." metaCanonical="" disqusComments="1" umbracoNaviHide="0" />
+<properties linkid="dev-net-how-to-table-services" urlDisplayName="Table Service" pageTitle="How to use table storage (.NET) - Windows Azure feature guide" Title="How to use table storage (.NET) - Windows Azure feature guide" metaKeywords="Windows Azure table storage service, Azure table service .NET, table storage .NET, table service C#, table storage C#" Description="Learn how to use the table storage service in Windows Azure. Code samples are written in C# code and use the .NET API." metaCanonical="" disqusComments="1" umbracoNaviHide="0" />
 
 
 

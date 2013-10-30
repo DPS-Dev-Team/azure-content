@@ -1,4 +1,4 @@
-<properties linkid="develop-mobile-tutorials-get-started-with-users-dotnet" urlDisplayName="Get Started with Users" pageTitle="Get started with authentication - Windows Azure Mobile Services" metaKeywords="" metaDescription="Learn how to use authentication with Windows Azure Mobile Services." metaCanonical="" disqusComments="1" umbracoNaviHide="1" />
+<properties linkid="develop-mobile-tutorials-get-started-with-users-dotnet" urlDisplayName="Get Started with Users" pageTitle="Get started with authentication - Windows Azure Mobile Services" Title="Get started with authentication - Windows Azure Mobile Services" metaKeywords="" Description="Learn how to use authentication with Windows Azure Mobile Services." metaCanonical="" disqusComments="1" umbracoNaviHide="1" />
 
 
 

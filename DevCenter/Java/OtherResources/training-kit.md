@@ -1,4 +1,4 @@
-<properties linkid="develop-java-training-kit" urlDisplayName="Training Kit" pageTitle="Windows Azure Training Kit (Java) - Windows Azure resources" metaKeywords="Azure training kit, Azure trainingkit, Azure training download" metaDescription="Learn about the Windows Azure Training Kit." metaCanonical="http://www.windowsazure.com/en-us/develop/net/other-resources/training-kit/" disqusComments="1" umbracoNaviHide="0" />
+<properties linkid="develop-java-training-kit" urlDisplayName="Training Kit" pageTitle="Windows Azure Training Kit (Java) - Windows Azure resources" Title="Windows Azure Training Kit (Java) - Windows Azure resources" metaKeywords="Azure training kit, Azure trainingkit, Azure training download" Description="Learn about the Windows Azure Training Kit." metaCanonical="http://www.windowsazure.com/en-us/develop/net/other-resources/training-kit/" disqusComments="1" umbracoNaviHide="0" />
 
 
 

@@ -1,4 +1,4 @@
-﻿<properties linkid="manage-services-how-to-monitor-a-storage-account" urlDisplayName="How to monitor" pageTitle="How to monitor a storage account - Windows Azure" metaKeywords="Azure monitor storage accounts, storage account management portal, storage account dashboard, storage metrics table, storage metrics chart" metaDescription="Learn how to monitor a storage account in Windows Azure by using the Management Portal." metaCanonical="" disqusComments="1" umbracoNaviHide="0" writer="tysonn" />
+﻿<properties linkid="manage-services-how-to-monitor-a-storage-account" urlDisplayName="How to monitor" pageTitle="How to monitor a storage account - Windows Azure" Title="How to monitor a storage account - Windows Azure" metaKeywords="Azure monitor storage accounts, storage account management portal, storage account dashboard, storage metrics table, storage metrics chart" Description="Learn how to monitor a storage account in Windows Azure by using the Management Portal." metaCanonical="" disqusComments="1" umbracoNaviHide="0" writer="tysonn" />
 
 
 

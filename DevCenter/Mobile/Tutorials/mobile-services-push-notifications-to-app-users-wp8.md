@@ -1,4 +1,4 @@
-<properties linkid="develop-net-tutorials-push-notifications-to-users-wp8" writer="glenga" urlDisplayName="Push Notifications to Users (WP8)" pageTitle="Push notifications to users (Windows Phone) - Mobile Services" metaKeywords="" metaDescription="Learn how to push notifications to your Windows Store app users by using Windows Azure Mobile Services." metaCanonical="" disqusComments="1" umbracoNaviHide="1" />
+<properties linkid="develop-net-tutorials-push-notifications-to-users-wp8" writer="glenga" urlDisplayName="Push Notifications to Users (WP8)" pageTitle="Push notifications to users (Windows Phone) - Mobile Services" Title="Push notifications to users (Windows Phone) - Mobile Services" metaKeywords="" Description="Learn how to push notifications to your Windows Store app users by using Windows Azure Mobile Services." metaCanonical="" disqusComments="1" umbracoNaviHide="1" />
 
 
 

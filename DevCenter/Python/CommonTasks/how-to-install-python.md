@@ -1,4 +1,4 @@
-﻿<properties linkid="develop-python-install-python" urlDisplayName="Install Python" pageTitle="Install Python and the SDK - Windows Azure" metaKeywords="Azure Python SDK" metaDescription="Learn how to install Python and the SDK to use with Windows Azure." metaCanonical="" disqusComments="1" umbracoNaviHide="0" />
+﻿<properties linkid="develop-python-install-python" urlDisplayName="Install Python" pageTitle="Install Python and the SDK - Windows Azure" Title="Install Python and the SDK - Windows Azure" metaKeywords="Azure Python SDK" Description="Learn how to install Python and the SDK to use with Windows Azure." metaCanonical="" disqusComments="1" umbracoNaviHide="0" />
 
 
 # Installing Python and the SDK

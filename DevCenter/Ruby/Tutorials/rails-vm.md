@@ -1,4 +1,4 @@
-<properties linkid="dev-ruby-web-app-with-linux-vm" urlDisplayName="Ruby on Rails Windows Azure VM" pageTitle="Ruby on Rails Web application in a Windows Azure Virtual Machine - tutorial" metaKeywords="ruby on rails, ruby on rails azure, rails azure, rails vm" metaDescription="Learn how to create a Ruby on Rails application that is hosted in a Windows Azure Virtual Machine." metaCanonical="" disqusComments="1" umbracoNaviHide="1" writer="larryfr" />
+<properties linkid="dev-ruby-web-app-with-linux-vm" urlDisplayName="Ruby on Rails Windows Azure VM" pageTitle="Ruby on Rails Web application in a Windows Azure Virtual Machine - tutorial" Title="Ruby on Rails Web application in a Windows Azure Virtual Machine - tutorial" metaKeywords="ruby on rails, ruby on rails azure, rails azure, rails vm" Description="Learn how to create a Ruby on Rails application that is hosted in a Windows Azure Virtual Machine." metaCanonical="" disqusComments="1" umbracoNaviHide="1" writer="larryfr" />
 
 
 
