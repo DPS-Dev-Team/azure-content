@@ -40,7 +40,7 @@ The following sections discuss the code that implements this architecture.
 Before you can begin developing your Windows Azure application, you need to get the tools and set-up your development environment.
 
 1. To install the Windows Azure SDK for .NET, click the button below:
-<a href="http://go.microsoft.com/fwlink/?LinkID=234939&clcid=0x409">![Get Tools and SDK link button][Image4]</a><br />
+<a href="http://go.microsoft.com/fwlink/?LinkID=234939&clcid=0x409"></a><br />
 When prompted to run or save WindowsAzureSDKForNet.exe, click **Run**:
 ![Installer UI][Image5]
 2. Click **Install** in the installer window and proceed with the installation:
@@ -76,12 +76,11 @@ The next step is to create a service namespace, and to obtain a shared secret ke
 [http://www.windowsazure.com]: http://www.windowsazure.com
 
 
-[Image1]: media/net/dev-net-getting-started-multi-tier-01.png
-[Image2]: media/net/dev-net-getting-started-multi-tier-100.png
-[Image3]: media/net/dev-net-getting-started-multi-tier-101.png
-[Image4]: media/net/installbutton.png
-[Image5]: media/net/dev-net-getting-started-3.png
-[Image6]: media/net/dev-net-getting-started-4.png
-[Image7]: media/net/dev-net-getting-started-12.png
-[Image8]: media/net/dev-net-how-to-sb-queues-03.png
-[Image9]: media/net/dev-net-how-to-sb-queues-04.png
+[Image1]: ../DevCenter/dotNET/Media/getting-started-multi-tier-01.png
+[Image2]: ../DevCenter/dotNET/Media/getting-started-multi-tier-100.png
+[Image3]: ../DevCenter/dotNET/Media/getting-started-multi-tier-101.png
+[Image5]: ../DevCenter/dotNET/Media/dev-net-getting-started-3.png
+[Image6]: ../DevCenter/dotNET/Media/dev-net-getting-started-4.png
+[Image7]: ../DevCenter/dotNET/Media/dev-net-getting-started-12.png
+[Image8]: ../DevCenter/dotNET/Media/sb-queues-03.png
+[Image9]: ../DevCenter/dotNET/Media/sb-queues-04.png
