@@ -360,7 +360,7 @@ You can also implement tags and templates in more advanced scenarios where you a
 [13]: ../../../DevCenter/Mobile/Media/mobile-quickstart-push1.png
 [14]: ../../../DevCenter/Mobile/Media/mobile-quickstart-push2.png
 [15]: ../../../DevCenter/Mobile/Media/mobile-app-enable-toast-win8.png
-[16]: ../Media/mobile-services-win8-app-push-connect.png
+[16]: ../../../DevCenter/Mobile/Media/mobile-services-win8-app-push-connect.png
 [17]: ../../../DevCenter/Mobile/Media/mobile-create-notification-hub.png
 [18]: ../../../DevCenter/Mobile/Media/mobile-list-notification-hubs.png
 [19]: ../../../DevCenter/Mobile/Media/mobile-configure-notification-hub.png
