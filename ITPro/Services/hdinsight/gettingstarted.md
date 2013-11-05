@@ -141,7 +141,7 @@ For the detailed instructions, see
 
 2. Click **HDInsight** on the left to list the status of the clusters in your account. In the following screenshot, there is no existing HDInsight cluster.
 
-	![HDI.ClusterStatus][image-hdi-clusterstatus]
+	**missing image**
 
 3. Click **NEW** on the lower left side, click **Data Services**, click **HDInsight**, and then click **Quick Create**.
 
