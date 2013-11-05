@@ -415,7 +415,7 @@ the new version.<a id="SQLAzure" name="SQLAzure"></a>
   [0]: ../Media/deploying-and-updating-applications-3.jpg
   [Change Deployment Configuration REST API]: http://msdn.microsoft.com/en-us/library/windowsazure/ee460809.aspx
   [Managing Upgrades to the Windows Azure Guest OS]: http://msdn.microsoft.com/en-us/library/windowsazure/ff729422.aspx
-  [1]: ../Media/deploying-and updating-applications-4.jpg 
+  [1]: ../Media/deploying-and-updating-applications-4.jpg 
   [Upgrade Deployment REST API]: http://msdn.microsoft.com/en-us/library/windowsazure/ee460793.aspx
   [2]: ../Media/deploying-and-updating-applications-5.jpg
   [3]: ../Media/deploying-and-updating-applications-6.jpg

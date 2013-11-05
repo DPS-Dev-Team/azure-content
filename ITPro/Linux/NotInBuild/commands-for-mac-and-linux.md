@@ -1,4 +1,3 @@
-
 <div chunk="../../../Shared/Chunks/missing-include.md" />
 
 #Commands for the Windows Azure cmdline tool for Mac and Linux-ARCHIVED
@@ -91,7 +90,7 @@ Affinity-groups can be set when a group of virtual machines spans multiple physi
 <h2 id="Commands_to_manage_your_Azure_virtual_machines">Commands to manage your Windows Azure virtual machines</h2>
 The diagram below shows how Windows Azure virtual machines are hosted in the production deployment environment of a Windows Azure cloud service. 
 
-![Architecture Diagram](../media/ArchitectureDiagram.jpg)
+![Architecture Diagram](../../Shared/Media/ArchitectureDiagram.jpg)
 
 // create-new creates the drive in blob storage (i.e., e:\ in the diagram); "attach" attaches an already created but unattached disk to a VM
 
@@ -220,7 +219,7 @@ Capturing a virtual machine cannot be done while it's state is RoleStateStarted.
 
 The following diagram shows the architecture of a typical deployment of multiple instances of a virtual machine. Note that in this example port 3389 is open on each virtual machine (for RDP access), and there is also an internal IP address (e.g., 168.55.11.1) on each virtual machine that is used by the load balancer to route traffic to the virtual machine.
 
-![Network Endpoint Diagram](../media/networkdiagram.jpg)
+![Network Endpoint Diagram](../../Shared/Media/networkdiagram.jpg)
 
 External requests to virtual machines go through a load balancer and as such requests cannot be specified against a particular virtual machine on deployments with multiple virtual machines. For deployments with multiple virtual machines, port mapping must be configured between the virtual machines (vm-port) and the load balancer (lb-port).
  
