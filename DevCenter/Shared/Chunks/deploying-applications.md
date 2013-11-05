@@ -412,7 +412,7 @@ the new version.<a id="SQLAzure" name="SQLAzure"></a>
   [Windows Azure Service Level Agreement]: http://www.windowsazure.com/en-us/support/sla/
   [Create Hosted Service REST API]: http://msdn.microsoft.com/en-us/library/windowsazure/gg441304.aspx
   [Create Deployment REST API]: http://msdn.microsoft.com/en-us/library/windowsazure/ee460813.aspx
-  [0]: ../Media/deploying-and updating-applications-3.jpg
+  [0]: ../Media/deploying-and-updating-applications-3.jpg
   [Change Deployment Configuration REST API]: http://msdn.microsoft.com/en-us/library/windowsazure/ee460809.aspx
   [Managing Upgrades to the Windows Azure Guest OS]: http://msdn.microsoft.com/en-us/library/windowsazure/ff729422.aspx
   [1]: ../Media/deploying-and updating-applications-4.jpg 
