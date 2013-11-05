@@ -351,7 +351,7 @@ You can also implement tags and templates in more advanced scenarios where you a
 [4]: ../Media/mobile-services-win8-edit-app.png
 [5]: ../Media/mobile-services-win8-app-push-auth.png
 [6]: ../Media/mobile-services-win8-app-advanced.png
-[7]: ../Media/mobile-services-win8-app-push-connect.png
+[7]: ../../../DevCenter/Mobile/Media/mobile-services-win8-app-push-connect.png
 [8]: ../Media/mobile-services-win8-app-push-auth.png
 [9]: ../media/mobile-services-selection.png
 [10]: ../../../DevCenter/Mobile/Media/mobile-push-tab.png
