@@ -353,17 +353,17 @@ You can also implement tags and templates in more advanced scenarios where you a
 [6]: ../Media/mobile-services-win8-app-advanced.png
 [7]: ../Media/mobile-services-win8-app-push-connect.png
 [8]: ../Media/mobile-services-win8-app-push-auth.png
-[9]: ../Media/mobile-services-selection.png
-[10]: ../Media/mobile-push-tab.png
-[11]: ../Media/mobile-portal-data-tables.png
-[12]: ../Media/mobile-insert-script-push2.png
-[13]: ../Media/mobile-quickstart-push1.png
-[14]: ../Media/mobile-quickstart-push2.png
-[15]: ../Media/mobile-app-enable-toast-win8.png
+[9]: ../media/mobile-services-selection.png
+[10]: ../../../DevCenter/Mobile/Media/mobile-push-tab.png
+[11]: ../media/mobile-portal-data-tables.png
+[12]: ../../../DevCenter/Mobile/Media/mobile-insert-script-push2.png
+[13]: ../../../DevCenter/Mobile/Media/mobile-quickstart-push1.png
+[14]: ../../../DevCenter/Mobile/Media/mobile-quickstart-push2.png
+[15]: ../../../DevCenter/Mobile/Media/mobile-app-enable-toast-win8.png
 [16]: ../Media/mobile-services-win8-app-push-connect.png
-[17]: ../Media/mobile-create-notification-hub.png
-[18]: ../Media/mobile-list-notification-hubs.png
-[19]: ../Media/mobile-configure-notification-hub.png
+[17]: ../../../DevCenter/Mobile/Media/mobile-create-notification-hub.png
+[18]: ../../../DevCenter/Mobile/Media/mobile-list-notification-hubs.png
+[19]: ../../../DevCenter/Mobile/Media/mobile-configure-notification-hub.png
 [20]: ../Media/mobile-sas-key-notification-hub.png
 [21]: ../Media/mobile-services-win8-edit2-app.png
 
