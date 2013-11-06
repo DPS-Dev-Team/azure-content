@@ -1,3 +1,4 @@
+<properties pageTitle="commands" title="commands" description="commands" />
 
 <div chunk="../../../Shared/Chunks/missing-include.md" />
 
