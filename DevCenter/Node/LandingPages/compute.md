@@ -1,3 +1,4 @@
+<properties pageTitle="compute" title="compute" description="compute" />
 
 <div umb_macroalias="AzureChunkDisplayer" umb_modalpopup="0" umb_chunkname="NodeJSLeft" umb_hide="0" umb_chunkurl="" umb_modaltrigger="" umb_chunkpath="devcenter/Menu" ismacro="true" onresizestart="return false;" umbversionid="265a27af-1112-4e1d-a554-560e0e496a1b" umbpageid="14783" title="This is rendered content from macro" class="umbMacroHolder"><!-- startUmbMacro --><span><strong>Azure Chunk Displayer</strong><br />No macro content available for WYSIWYG editing</span><!-- endUmbMacro --></div>
 <h1 id="menu-nodejs-compute">Compute</h1>

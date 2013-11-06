@@ -1,3 +1,5 @@
+<properties pageTitle="vms" title="vms" description="vms" />
+
 <div class="dev-articles">
 <h1>Virtual Machines</h1>
   <p>Windows Azure offers cloud-based virtual machines running either Windows Server 2008 or an endorsed distribution of Linux. </p>

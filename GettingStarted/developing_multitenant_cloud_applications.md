@@ -1,3 +1,5 @@
+<properties pageTitle="sample" title="sample" description="sample" />
+
 # This is the title
 Here is some text.
 Here is a bulleted list:

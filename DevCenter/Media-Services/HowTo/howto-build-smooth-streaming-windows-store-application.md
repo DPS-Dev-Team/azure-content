@@ -1,4 +1,4 @@
-﻿
+﻿<properties pageTitle="smooth" title="smooth" description="smooth" />
 
 #How to Build a Smooth Streaming Windows Store Application
 

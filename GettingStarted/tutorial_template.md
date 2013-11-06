@@ -1,3 +1,5 @@
+<properties pageTitle="tutorial" title="tutorial" description="tutorial" />
+
 # (TODO: Title of the tutorial)
 
 (TODO: provide a short description of the article.)

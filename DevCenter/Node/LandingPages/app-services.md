@@ -1,3 +1,4 @@
+<properties pageTitle="App Services" title="App Services" description="App Services" />
 
 <div umb_macroalias="AzureChunkDisplayer" umb_modalpopup="0" umb_chunkname="NodeJSLeft" umb_hide="0" umb_chunkurl="" umb_modaltrigger="" umb_chunkpath="devcenter/Menu" ismacro="true" onresizestart="return false;" umbversionid="db90ba79-d1a9-41c6-843f-60e8344a6c41" umbpageid="14786" title="This is rendered content from macro" class="umbMacroHolder"><!-- startUmbMacro --><span><strong>Azure Chunk Displayer</strong><br />No macro content available for WYSIWYG editing</span><!-- endUmbMacro --></div>
 <h1 id="menu-nodejs-appservices">App Services</h1>

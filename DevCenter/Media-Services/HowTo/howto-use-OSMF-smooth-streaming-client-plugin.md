@@ -1,4 +1,4 @@
-
+<properties pageTitle="osmf" title="osmf" description="osmf" />
 
 # How to Use the Microsoft Smooth Streaming Plugin for the Adobe Open Source Media Framework #
 

@@ -1,3 +1,5 @@
+<properties pageTitle="resources" title="resources" description="resources" />
+
 <div class="umbMacroHolder" title="This is rendered content from macro" onresizestart="return false;" umbpageid="14797" umbversionid="3ba76a16-4ce8-43e1-b4eb-a7078cd3269d" ismacro="true" umb_chunkpath="devcenter/Menu" umb_modaltrigger="" umb_hide="0" umb_chunkname="MobileLeft" umb_modalpopup="0" umb_macroalias="AzureChunkDisplayer" umb_chunkurl=""><!-- startUmbMacro --><span><strong>Azure Chunk Displayer</strong><br />No macro content available for WYSIWYG editing</span><!-- endUmbMacro --></div>
 <h1 id="menu-mobile-resources">Tutorials and Resources</h1>
 <h2>Data</h2>

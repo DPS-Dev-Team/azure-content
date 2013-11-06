@@ -1,4 +1,4 @@
-
+<properties pageTitle="mongodb" title="mongodb" description="mongodb" />
 
 # Create a C# ASP.NET Application on Windows Azure with MongoDB using the MongoLab Add-On
 
@@ -239,9 +239,9 @@ Now you'll add a view for creating a new note.
 
 		@model mongoNotes.Models.Note
 		
-		<script src="@Url.Content("~/Scripts/jquery-1.5.1.min.js")" type="text/javascript"></script>
-		<script src="@Url.Content("~/Scripts/jquery.validate.min.js")" type="text/javascript"></script>
-		<script src="@Url.Content("~/Scripts/jquery.validate.unobtrusive.min.js")" type="text/javascript"></script>
+		<*script src="@Url.Content("~/Scripts/jquery-1.5.1.min.js")" type="text/javascript"></script*>
+		<*script src="@Url.Content("~/Scripts/jquery.validate.min.js")" type="text/javascript"></script*>
+		<*script src="@Url.Content("~/Scripts/jquery.validate.unobtrusive.min.js")" type="text/javascript"></script*>
 		
 		@using (Html.BeginForm("Create", "Home")) {
 		    @Html.ValidationSummary(true)

@@ -1,4 +1,4 @@
-
+<properties pageTitle="new-relic" title="new-relic" description="new-relic" />
 
 #New Relic Application Performance Management on Windows Azure
 

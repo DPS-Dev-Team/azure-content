@@ -1,3 +1,5 @@
+<properties pageTitle="tutorial" title="tutorial" description="tutorial" />
+
 # NET Multi-Tier Application Using Service Bus Queues
  
 Developing for Windows Azure is easy using Visual Studio 2010 and the free Windows Azure SDK for .NET. If you do not already have Visual Studio 2010, the SDK will automatically install Visual Web Developer 2010 Express, so you can start developing for Windows Azure entirely for free. This guide assumes you have no prior experience using Windows Azure. On completing this guide, you will have an application that uses multiple Windows Azure resources running in your local environment and demonstrating how a multi-tier application works.

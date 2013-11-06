@@ -228,8 +228,8 @@ blobs, adjust the code as needed.
 
     // Enumerate the uploaded blobs.
     for (ListBlobItem blobItem : container.listBlobs()) {
-    // List each blob as an <img> element in the HTML body.
-    stream.println("<img src='" + blobItem.getUri() + "'/><br/>");
+    // List each blob as an <*img*> element in the HTML body.
+    stream.println("<*img src='" + blobItem.getUri() + "'/*><br/>");
     }
 
 Close the **&lt;body&gt;** element and the **&lt;html&gt;** element.
@@ -339,8 +339,8 @@ respectively.
 
             // Enumerate the uploaded blobs.
             for (ListBlobItem blobItem : container.listBlobs()) {
-                // List each blob as an <img> element in the HTML body.
-                stream.println("<img src='" + blobItem.getUri() + "'/><br/>");
+                // List each blob as an <*img*> element in the HTML body.
+                stream.println("<*img src='" + blobItem.getUri() + "'/*><br/>");
             }
 
             stream.println("</body>");

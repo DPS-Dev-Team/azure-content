@@ -1,4 +1,4 @@
-﻿
+﻿<properties pageTitle="single" title="single" description="single" />
 
 # Developing Single Tenant Applications with Windows Azure Active Directory
 

@@ -117,7 +117,7 @@ Next, you will update the app to authenticate users with Live Connect before req
 
 3. Open the default.html project file and add the following &lt;script&gt; element in the &lt;head&gt; element. 
 
-        <script src="///LiveSDKHTML/js/wl.js"></script>
+        <*script src="///LiveSDKHTML/js/wl.js"></script*>
 
    This enables Microsoft IntelliSense in the default.html file.
 

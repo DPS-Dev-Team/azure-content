@@ -1,3 +1,5 @@
+<properties pageTitle="ssl" title="ssl" description="ssl" />
+
 <h2><span  class="short-header">Azure SSL Certs on Ubuntu 12.04</span></h2>
 
 An easy way for handling client authentication certificates on Ubuntu is to use <b>stunnel</b> to reverse proxy to your web server of choice(Nginx, Passenger, etc).

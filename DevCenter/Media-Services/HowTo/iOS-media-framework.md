@@ -1,4 +1,4 @@
-﻿
+﻿<properties pageTitle="ios" title="ios" description="ios" />
 
 #How to use the Windows Azure Media Services iOS Media Player Framework
 

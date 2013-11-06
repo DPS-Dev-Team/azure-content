@@ -1,4 +1,4 @@
-
+<properties pageTitle="rt" title="rt" description="rt" />
 
 # Build Real-time Apps with Mobile Services and Pusher
 <div class="dev-center-tutorial-selector sublanding"> 

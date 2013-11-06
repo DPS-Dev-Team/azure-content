@@ -1,3 +1,5 @@
+<properties pageTitle="preview" title="preview" description="preview" />
+
 <h1>Windows Azure Media Services Preview for Developers</h1>
 <p>Windows Azure Media Services form an extensible media platform that integrates the best of the Microsoft Media Platform and third-party media components in Windows Azure. Media Services provide a media pipeline in the cloud that enables industry partners to extend or replace component technologies. ISVs and media providers can use Media Services to build end-to-end media solutions. This overview describes the general architecture, common development scenarios, capabilities, development options, and pricing for Media Services.</p>
 <h2>Contents</h2>
@@ -12,7 +14,7 @@
 <p> </p>
 <h2><a name="techoverview"></a>How Media Services Work</h2>
 <p>This diagram illustrates the basic Media Services architecture.</p>
-<p><img src="/media/net/MediaServicesArch.png" alt="Media Services Architecture" /></p>
+<p>**missing image**</p>
 <p> </p>
 <h2><a name="devscenarios"></a>Development Scenarios</h2>
 <p>Media Services support several common media development scenarios as described in the following table:</p>

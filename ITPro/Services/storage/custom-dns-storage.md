@@ -1,3 +1,5 @@
+<properties pageTitle="dns" title="dns" description="dns" />
+
 # Configuring a custom domain name for blob data in a Windows Azure storage account
 
 You can configure a custom domain for accessing blob data in your Windows Azure storage account. The default endpoint for the Blob service is https://<*mystorageaccount*>.blob.core.windows.net. If you map a custom domain and subdomain such as **www.contoso.com** to the blob endpoint for your storage account, then your users can also access blob data in your storage account using that domain. 

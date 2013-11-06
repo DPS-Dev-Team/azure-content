@@ -66,7 +66,7 @@ Now that your mobile service is ready, you can update the app to store items in 
 
 2. In the default.html project file, add the following script reference in the page header:
 
-        <script type="text/javascript" src="/js/MobileServices.js"></script>
+        <*script type="text/javascript" src="/js/MobileServices.js"></script*>
 
 3. In the Management Portal, click **Mobile Services**, and then click the mobile service you just created.
 

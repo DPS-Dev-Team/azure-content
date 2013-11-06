@@ -130,7 +130,7 @@ Now that your mobile service is ready, you can update the app to store items in 
 
 1. In your web editor, open the index.html project file and add the following to the script references for the page:
 
-        <script src='//**APP_URL**/client/MobileServices.Web-1.0.0.min.js'></script>
+        <*script src='//**APP_URL**/client/MobileServices.Web-1.0.0.min.js'></script*>
 
     You must replace the placeholder `**APP_URL**` with the URL of your mobile service.
 

@@ -1,4 +1,4 @@
-
+<properties pageTitle="schedule" title="schedule" description="schedule" />
 
 # Schedule recurring jobs in Mobile Services  
 <div class="dev-onpage-video-clear clearfix">

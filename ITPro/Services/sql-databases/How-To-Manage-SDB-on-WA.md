@@ -1,4 +1,4 @@
-﻿
+﻿<properties pageTitle="SDB" title="SDB" description="SDB" />
 
 # How to Manage SQL Databases on Windows Azure
 

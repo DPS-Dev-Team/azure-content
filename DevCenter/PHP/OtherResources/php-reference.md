@@ -1,4 +1,4 @@
-
+<properties pageTitle="php" title="php" description="php" />
 
 <div>
 <h1>PHP Reference Content</h1>

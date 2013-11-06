@@ -1,3 +1,5 @@
+<properties pageTitle="rc" title="rc" description="rc" />
+
 <h1>Windows Azure and Visual Studio 2012</h1>
 <p>Thank you for your interest in Windows Azure!</p>
 <p><strong>Note:</strong> Visual Studio 2012 RC is a release candidate that can only be used for a limited time and that only works with the Windows Azure SDK June 2012 release. To use the latest Windows Azure and Visual Studio features, upgrade to Visual Studio 2012 RTM. For complete details, see <a href="http://www.microsoft.com/visualstudio/11/en-us" target="_blank">Visual Studio 2012</a>.</p>
